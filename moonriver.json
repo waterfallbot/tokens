@@ -1,5 +1,14 @@
 {
-    "0x98878B06940aE243284CA214f92Bb71a2b032B8A": "https://t.me/joinchat/0zMbqOtf-EFhYjFl",
-    "0xC2392DD3e3fED2c8Ed9f7f0bDf6026fcd1348453": "https://t.me/joinchat/xRNupuTSRixjNTM1",
-    "0x3288129bE9679c559C2a3f4559eccC8835cb08a0": "https://t.me/joinchat/3tGcBP7lD0UzMWY9"
+    "0x98878B06940aE243284CA214f92Bb71a2b032B8A": {
+        "url": "https://t.me/joinchat/0zMbqOtf-EFhYjFl",
+        "name": "WMOVR"
+    },
+    "0xC2392DD3e3fED2c8Ed9f7f0bDf6026fcd1348453": {
+        "url": "https://t.me/joinchat/xRNupuTSRixjNTM1",
+        "name": "BEANS"
+    },
+    "0x3288129bE9679c559C2a3f4559eccC8835cb08a0": {
+        "url": "https://t.me/joinchat/3tGcBP7lD0UzMWY9",
+        "name": "MOONLAKE"
+    }
 }

@@ -1,6 +1,18 @@
 {
-    "0xbDa99C8695986B45a0dD3979cC6f3974D9753D30": "https://t.me/joinchat/VhHw1-IbVqJjMjdl",
-    "0x25dceE96FCD63Ad88B812cCE02b3Fcf7d1504F2D": "https://t.me/joinchat/vPD-MhBCmdQ4ZjI1",
-    "0x892D81221484F690C0a97d3DD18B9144A3ECDFB7": "https://t.me/joinchat/TI_bTG3Gl3cxM2U1",
-    "0x6008C8769BFACd92251bA838382e7e5637C7e74D": "https://t.me/joinchat/fAEiP-wXZ8E3Nzdl"
+    "0xbDa99C8695986B45a0dD3979cC6f3974D9753D30": {
+        "url": "https://t.me/joinchat/VhHw1-IbVqJjMjdl",
+        "name": "LOOT"
+    },
+    "0x25dceE96FCD63Ad88B812cCE02b3Fcf7d1504F2D": {
+        "url": "https://t.me/joinchat/vPD-MhBCmdQ4ZjI1",
+        "name": "TROLL"
+    },
+    "0x892D81221484F690C0a97d3DD18B9144A3ECDFB7": {
+        "url": "https://t.me/joinchat/TI_bTG3Gl3cxM2U1",
+        "name": "MAGIC"
+    },
+    "0x6008C8769BFACd92251bA838382e7e5637C7e74D": {
+        "url": "https://t.me/joinchat/fAEiP-wXZ8E3Nzdl",
+        "name": "COSMIC"
+    }
 }

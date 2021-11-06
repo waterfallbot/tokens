@@ -1,408 +1,1626 @@
 {
-    "0x190b589cf9Fb8DDEabBFeae36a813FFb2A702454": "https://t.me/joinchat/uAhB7213u_EyZDFh",
-    "0x0d9319565be7f53CeFE84Ad201Be3f40feAE2740": "https://t.me/joinchat/_2-bqDgxuuJhMDNh",
-    "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82": "https://t.me/cakewaterfall",
-    "0xCa3F508B8e4Dd382eE878A314789373D80A5190A": "https://t.me/bifiwaterfall",
-    "0x5B6DcF557E2aBE2323c48445E8CC948910d8c2c9": "https://t.me/mirwaterfall",
-    "0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830": "https://t.me/brywaterfall",
-    "0x21F2d04191cC95718ebDb166C53Ef8B8E5F21DEa": "https://t.me/expwaterfall",
-    "0x88f4f207F5DF54E95b53663829412Fc4F85a682e": "https://t.me/swoonwaterfall",
-    "0xaC472D0EED2B8a2f57a6E304eA7eBD8E88D1d36f": "https://t.me/aniwaterfall",
-    "0x8C784C49097Dcc637b93232e15810D53871992BF": "https://t.me/mscwaterfall",
-    "0xAcABD3f9b8F76fFd2724604185Fa5AFA5dF25aC6": "https://t.me/msswaterfall",
-    "0x35e869B7456462b81cdB5e6e42434bD27f3F788c": "https://t.me/mdowaterfall",
-    "0x242E46490397ACCa94ED930F2C4EdF16250237fa": "https://t.me/mdswaterfall",
-    "0x067a5ad3f0f91AcF512fFE66Ea77f37b4DcaaF18": "https://t.me/wynautwaterfall",
-    "0x937Ec4c10d072633D4672855B1837BC45879c51D": "https://t.me/grenadepricebot",
-    "0x4F47A0d15c1E53F3d94c069C7D16977c29F9CB6B": "https://t.me/ramenwaterfall",
-    "0x94F559aE621F1c810F31a6a620Ad7376776fe09E": "https://t.me/joinchat/o1Z7M1gxiMI2NmQ1",
-    "0xEae68564C96b1e1c471093A539836ae8Bf7C1B65": "https://t.me/joinchat/xC7b67kbCvRmNzVl",
-    "0xCD40F2670CF58720b694968698A5514e924F742d": "https://t.me/ODDZTrades",
-    "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6": "https://t.me/joinchat/UR-NSfb4cHtjYmRl",
-    "0x41cE0e3Ec91FAE5DaD0F4e6cF4B1A98861272Ad0": "https://t.me/joinchat/HeyCb37ty1NjZmFl",
-    "0x95A30F66C6585D8fC75a5645Dbc9ef0B47257c84": "https://t.me/joinchat/vBryw9hSGWhkOWNl",
-    "0xD79f3E63037Ffb62018C460DEDa651ef066cCF99": "https://t.me/joinchat/se4C8DEMCfkzYjRl",
-    "0x16dFEfF64c532370e8FAa73a7e94e2cCda9342EF": "https://t.me/joinchat/LKSMqnkE4ZE1NDZl",
-    "0xc603b1fba6A5b502Be4f1Ab27591bF4e75A3460c": "https://t.me/magiwaterfall",
-    "0xD1102332a213E21faF78B69C03572031F3552c33": "https://t.me/joinchat/V8nRrSpoNrereY3d",
-    "0xc2e1acef50aE55661855E8dcB72adB182A3cC259": "https://t.me/joinchat/ksvI-Gt54_00YTI9",
-    "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95": "https://t.me/banana_waterfall",
-    "0x541E619858737031A1244A5d0Cd47E5ef480342c": "https://t.me/joinchat/4TtwrNAt-tI3NzFl",
-    "0x7979F6C54ebA05E18Ded44C4F986F49a5De551c2": "https://t.me/joinchat/CR8UOV00JDU4YzA9",
-    "0xA1303E6199b319a891b79685F0537D289af1FC83": "https://t.me/narwaterfall",
-    "0x9806aec346064183b5cE441313231DFf89811f7A": "https://t.me/ypandawaterfall",
-    "0xB1aC5dAC9099fDA18390901371Ce03c5eC637C89": "https://t.me/tbbwaterfall",
-    "0x9d8AAC497A4b8fe697dd63101d793F0C6A6EEbB6": "https://t.me/d100waterfall",
-    "0x096901973AC5b4dd14728fAE04597b90B2a47da9": "https://t.me/gltowaterfall",
-    "0x4f0ed527e8A95ecAA132Af214dFd41F30b361600": "https://t.me/vbswapwaterfall",
-    "0xF34b702924751434Bdf83Acc2766947d4c38fBEE": "https://t.me/tastewaterfall",
-    "0x4fCfA6cC8914ab455B5b33Df916d90BFe70b6AB1": "https://t.me/slmewaterfall",
-    "0x67d012F731c23F0313CEA1186d0121779c77fcFE": "https://t.me/soulwaterfall",
-    "0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F": "https://t.me/alpacawaterfall",
-    "0x5eF5994fA33FF4eB6c82d51ee1DC145c546065Bd": "https://t.me/alloywaterfall",
-    "0x7A9f28EB62C791422Aa23CeAE1dA9C847cBeC9b0": "https://t.me/watchwaterfall",
-    "0xC1eDCc306E6faab9dA629efCa48670BE4678779D": "https://t.me/mdgwaterfall",
-    "0x5573d653Dd0b7265Af26D77055F4F6E9AeA291fC": "https://t.me/meswaterfall",
-    "0x72FEAC4C0887c12db21CEB161533Fd8467469e6b": "https://t.me/dslwaterfall",
-    "0x8148b58393f00b4B379cBEb8018d3445E0b636a0": "https://t.me/sailwaterfall",
-    "0x9ce15E6AC4b22b9163a668747b8D93ceFBAE5099": "https://t.me/plzwaterfall",
-    "0x31D0a7AdA4d4c131Eb612DB48861211F63e57610": "https://t.me/startwaterfall",
-    "0xE0e514c71282b6f4e823703a39374Cf58dc3eA4f": "https://t.me/beltwaterfall",
-    "0xC294a07Df611CFc515DcdC7D377648a7a0d85c8f": "https://t.me/bcuwaterfall",
-    "0xa872E0a44BBd66c1486a756CB5BD3F0bEEC4e32e": "https://t.me/alphawaterfall",
-    "0x6B8227A0E18bd35A10849601dB194B24aAB2C8ea": "https://t.me/gofiwaterfall",
-    "0x7b65B489fE53fCE1F6548Db886C08aD73111DDd8": "https://t.me/ironwaterfall",
-    "0x9001eE054F1692feF3A48330cB543b6FEc6287eb": "https://t.me/steelwaterfall",
-    "0x57f81252D1187754048F5aF1938226B9034B599f": "https://t.me/WATERwaterfall",
-    "0x7B9c3Df47F3326FbC0674d51dc3EB0f2Df29F37F": "https://t.me/lightningthunderstorm",
-    "0x9b9D617D3445f0147Ece2322BaCe8db2768D2770": "https://t.me/CUEwaterfall",
-    "0x8E83EB3cC2585b9648687C3d1D9C7a2d17448772": "https://t.me/DAFTwaterfall",
-    "0x05B339B0A346bF01f851ddE47a5d485c34FE220c": "https://t.me/joinchat/rqVMnlQLLEw0YWFl",
-    "0x075FFCe0f10428C4d929032b37597b24f2a3ED51": "https://t.me/MDG2waterfall",
-    "0x37F188beB2D6098AFcb9E2714691B9Afa937B01A": "https://t.me/bWBSwaterfall",
-    "0x706954491EBFD6b38e5B1e6F079dBEfae0F5EBa0": "https://t.me/CHZ006waterfall",
-    "0x83C43fDc737541196C6085Ae4378dB3Dbaa90c99": "https://t.me/TOTOROwaterfall",
-    "0x9a946c3Cb16c08334b69aE249690C236Ebd5583E": "https://t.me/joinchat/QG-ImhbhGFE2ODY1",
-    "0xA8dA060eBD32A753005c6Ee476A0D79177C6EA8b": "https://t.me/ybearwaterfall",
-    "0x5b147AD94f3f25f6aA94a58aBCcd6745Df36d7F7": "https://t.me/ybearwaterfall",
-    "0xe3E1FabEaBD48491bD6902B0c32FDEee8D2Ff12b": "https://t.me/UNICORNwaterfall",
-    "0x7EF548Ee7cA0855B18cC5372BD9A34678da43658": "https://t.me/YFUNIwaterfall",
-    "0xc25D94fc3f8D7bD1d88f89802fe075338F71dEC7": "https://t.me/PNIXwaterfall",
-    "0x52d86850bc8207b520340B7E39cDaF22561b9E56": "https://t.me/SWIRLwaterfall",
-    "0xE3e8cC42DA487d1116D26687856e9FB684817c52": "https://t.me/RASTAwaterfall",
-    "0x53b3bE80206DFC1E82389ebE656aF2e6f81c6BE6": "https://t.me/WSAwaterfall",
-    "0x5e8499d884B3086D0fC0c21423Fc427e31b7382C": "https://t.me/mdg3waterfall",
-    "0x579A6277a6c2c63a5b25006F63Bce5DC8D9c25e7": "https://t.me/BGOwaterfall",
-    "0x53F39324Fbb209693332B87aA94D5519A1a49aB0": "https://t.me/sBGOwaterfall",
-    "0x677f67907173Fc8ad1fcdd182418169cd8e9f80a": "https://t.me/SAFELAMBOwaterfall",
-    "0x7DA85C84b8191A977750382f1B8f4de13dD79E3f": "https://t.me/IMOONwaterfall",
-    "0x7B0409A3A3f79bAa284035d48E1DFd581d7d7654": "https://t.me/RUPEEwaterfall",
-    "0xA7f552078dcC247C2684336020c03648500C6d9F": "https://t.me/joinchat/GUNXFxb-ZRk3NjY1",
-    "0xE354dd77B58471F99795803aC06dBd5236632756": "https://t.me/DRKwaterfall",
-    "0xA2f46fe221f34Dac4Cf078e6946A7cb4e373AD28": "https://t.me/joinchat/sAwkNYgQ6doyMWJl",
-    "0x55472f6d96a371Bd0Bc4D40a305d9f5b294E34d9": "https://t.me/ROCKETwaterfall",
-    "0x661F09989485a671749A6444Ac5b7B032B468B88": "https://t.me/DEGENwaterfall",
-    "0x925f2C11b99c1A4c46606898ee91eD3D450cFedA": "https://t.me/CHOWwaterfall",
-    "0x0288D3E353fE2299F11eA2c2e1696b4A648eCC07": "https://t.me/ZEFIwaterfall",
-    "0xCC0d50F79E18AF6D89f36692dB59Aef77E45aFEd": "https://t.me/PEKCwaterfall",
-    "0x5ddAe05d2f854926E8070b435d2dfe5edCa246D9": "https://t.me/KETwaterfall",
-    "0x47C4f3ffc31c135AFC0C157068f6E0eEA90b7dC9": "https://t.me/cCAKEwaterfall",
-    "0x97a436E3d1544DcceD1fC879D7BB3a5Ef00C29Eb": "https://t.me/PLUTOwaterfall",
-    "0xf74Ea7Fc5377cd33B68D7b797d46ad72FA2dAC5F": "https://t.me/THREE_PXwaterfall",
-    "0x4354a4F710182966E55EA30CFa807FA1b821a67b": "https://t.me/FOXYwaterfall",
-    "0xAd9787017e82f6368BbE4893b475CaadA2258564": "https://t.me/BTAwaterfall",
-    "0x433794e21A67a6e526597019eF70685D79eaB10b": "https://t.me/SATOSHIMOONwaterfall",
-    "0xa184088a740c695E156F91f5cC086a06bb78b827": "https://t.me/autowaterfall",
-    "0xDC5e956bfFEf5Eab77357713bb5ED1c9B8cFc67C": "https://t.me/SAFEBSCSwaterfall",
-    "0x33d08D8C7a168333a85285a68C0042b39fC3741D": "https://t.me/AIOZwaterfall",
-    "0x557b3aB377bbD68DFC6dADEFafA3CC4e4B6677c6": "https://t.me/bpDOTwaterfall",
-    "0xB27ADAfFB9fEa1801459a1a81B17218288c097cc": "https://t.me/joinchat/hyAq4uY2AgRhYzE5",
-    "0x7ca1eBC56496E3D78E56D71A127ea9d1717c4bE0": "https://t.me/joinchat/hh15LL5RJFZmOTBl",
-    "0x9458784486fb00C2D1a8740d5579207c42DBd602": "https://t.me/gyawaterfall",
-    "0x358eF99D093F4d425DBD0e8e797d9185e4Aaf4B4": "https://t.me/ESWAPwaterfall",
-    "0x2084907e318C6c45f74ae20792b366559FAAa791": "https://t.me/sCAKEwaterfall",
-    "0x0491648C910ad2c1aFaab733faF71D30313Df7FC": "https://t.me/JDIwaterfall",
-    "0x57bb0f40479D7Dd0caa67f2A579273A8e9c038Ee": "https://t.me/RUGBUSTwaterfall",
-    "0x10E027343977e55BEBEAA6FC65804021829D41d4": "https://t.me/FAIRBTCwaterfall",
-    "0x81859801b01764D4f0Fa5E64729f5a6C3b91435b": "https://t.me/joinchat/LqH53qG7lJdkOGRl",
-    "0xcBfB07B453c52A287f42E1270eE1eBCc7C5eE823": "https://t.me/FAIRBSCwaterfall",
-    "0x5749085C36A521f71AD2050Cb600B2165aabdF68": "https://t.me/joinchat/lJGHZh78wndlMGJl",
-    "0x814C2A11f57c56A06b8F32b5daE255cc7dD51aA0": "https://t.me/DFRwaterfall",
-    "0x4495e673eE53c61CE79c35D5e299733639362aEc": "https://t.me/joinchat/G38FB9FXpao0ODIx",
-    "0x4D691BBEcE09A34BA5175639639146B25739cf35": "https://t.me/FAIRSPACEwaterfall",
-    "0x0C038Bc02C8C9945f194b17C703f800526900A74": "https://t.me/joinchat/TEIeVK5b_k05OTNl",
-    "0x3920123482070C1a2dff73AaD695c60e7c6F6862": "https://t.me/EULERwaterfall",
-    "0x33A3d962955A3862C8093D1273344719f03cA17C": "https://t.me/SPOREwaterfall",
-    "0x77F2a1E63054c45093abcB0B83f16a0CE79b7018": "https://t.me/JAZZwaterfall",
-    "0x6fDb74841B167ff6A58552D2E00365dC554eD656": "https://t.me/FAIRHOGEwaterfall",
-    "0x9b93c29595dd603f75854EbA3C5f4EE078EE4454": "https://t.me/STRIwaterfall",
-    "0xDD13bC4b81A4d4B9ac2DBDBcBB8150F7e351E018": "https://t.me/GMNEwaterfall",
-    "0x7c9Cb83c0e47D01Bb27EE14337EE9eB493E770A7": "https://t.me/mdg4waterfall",
-    "0xc16EE527648E06676C90831Bed44512E0Db85Fe8": "https://t.me/ACORPwaterfall",
-    "0x38d8b1ac6967C5714F935074DA9Ed63B16a65Edc": "https://t.me/BEAMwaterfall",
-    "0x34EA3F7162E6f6Ed16bD171267eC180fD5c848da": "https://t.me/DNDwaterfall",
-    "0x2e841bF1a959F5eDCDC320053810Ad86396F05eD": "https://t.me/joinchat/hbgbEk0yan05ZjU1",
-    "0x2E291e1c9f85a86d0C58Ae15621aaC005a8b2EAD": "https://t.me/ZEPwaterfall",
-    "0x429F10b5a78De398E039d313c4CEaC4D7E51cdCB": "https://t.me/sav3mars",
-    "0x18D883F6647cB3195F55EB93BF9EE8ae824E3a6f": "https://t.me/joinchat/i69R3BcP8oU4ZjRl",
-    "0x5A4f765476Fd1BF010783B47a25CbF10974e6A37": "https://t.me/joinchat/VCx9j-g2clVlZjNl",
-    "0x9cf571F3F3809e396b68f2e454aFF83914665db1": "https://t.me/joinchat/nHmPhth3r2Q3ZDg9",
-    "0xd96F875B7B9C95eEE51c8D01C11DEE6a8bb4F5c3": "https://t.me/joinchat/rPzkqtMfmzs5OGY1",
-    "0x7fdd3C80d4aE8C3B5D71aab17E13077E65037170": "https://t.me/joinchat/ARozakwrD0k5MWM1",
-    "0x6e2307de122cd9465b7f47dd73a5F89BB29E4285": "https://t.me/joinchat/-DABtkn7O6czNzI1",
-    "0xCc5B7e738FaD86AB75821A9cE3494cd1786aE944": "https://t.me/joinchat/X-FooYN3I79kN2Y1",
-    "0x3835943D4013EF994E3062E6049D2a7415DaFf9e": "https://t.me/joinchat/AAqUQsEgp3tkNDc1",
-    "0x339f6e1553E923FD27412dfaF18b5721EA580A15": "https://t.me/joinchat/EJWzdmJ5dzI5YjNl",
-    "0x787732f27D18495494cea3792ed7946BbCFF8db2": "https://t.me/joinchat/C21sHpbEp7Y1M2Vl",
-    "0x6F0C00185D476Dd1D6D547e15Ae42bEeAE9b15c8": "https://t.me/joinchat/HZbDGnhegvEzMzQ1",
-    "0xEcB81D9a0fDD532440b8BfEEBaCC25e2035C5Db4": "https://t.me/joinchat/6xKQRfeKJvI5OGY1",
-    "0xf4351554e76cF3Eb2280F3D7AdA9699B23D964C3": "https://t.me/joinchat/ves_GYvcTUc0YzBl",
-    "0xB0F2939A1c0e43683E5954c9Fe142F7df9F8D967": "https://t.me/joinchat/bEUs16XA2F82MWM1",
-    "0x7bb362962F2a4E2089466C79566572B37CFc5D78": "https://t.me/joinchat/bpI4DoLPQgxkMWI1",
-    "0xe56F12123c583De823720A603b2DC11D659C12fC": "https://t.me/joinchat/hREzIMBgVS82Mjg1",
-    "0x716690CE67379C2563508DCf5e0C4485B550A589": "https://t.me/joinchat/9oTq84sxW0EzNjc9",
-    "0x4c2377102a6fFE6150878b222a39D20b1e528290": "https://t.me/joinchat/NpbP877CqK4yNjg1",
-    "0x8891de345808E77228677f0eFb56125DB1E93a49": "https://t.me/joinchat/w5d1CfCGw9c3MjQ9",
-    "0x83CB33E78Bf03Fc07A6370e45a2C406222F0d410": "https://t.me/joinchat/ACv42Wgp1B9iZWFl",
-    "0x069B2619Eb24367A46Fda638Bd1b88Aa4daD7879": "https://t.me/joinchat/J8iMO11l3moxMjU1",
-    "0x5A054554b3F0C75063D29250984A921402E1E3a7": "https://t.me/joinchat/SRqlrc4OshI3YjE1",
-    "0xEd438051437c22A9Ef249B68c7E292435fE8B858": "https://t.me/joinchat/HzYKj5FzESlkN2I1",
-    "0xEF2ec90e0b8D4CdFdB090989EA1Bc663F0D680BF": "https://t.me/joinchat/wR_aQe67r14yODY1",
-    "0x779859313567B96d5d3fb7f531b73E1BF008C4A9": "https://t.me/joinchat/U4DqzEOnRRE0OTll",
-    "0xC0eFf7749b125444953ef89682201Fb8c6A917CD": "https://t.me/joinchat/8Ycp63OSexA2NTA1",
-    "0xc35f46aAEb8aD17bCbAa78c03540FEffa44790Cb": "https://t.me/joinchat/2K7yvqTOXdo1Mzk1",
-    "0x71f3ED37567E013f8294aa0c6c1C92332d2944F3": "https://t.me/joinchat/uC5d54-xluY2ZTE1",
-    "0xA38920217C0d401d71a44a5e8cf042f450AA5c71": "https://t.me/joinchat/AtxPbH1dGnE0YmNl",
-    "0xdEC858d5ee93568CE4eA5bbf9169ceA23d2dE305": "https://t.me/joinchat/476akX3tQJY1YTY1",
-    "0x78bc22a215C1eF8a2e41Fa1c39CD7BDC09bd5174": "https://t.me/joinchat/0aKDh-iyEupkZTA9",
-    "0x727D0b444B86BE03DBA3ece809d8AF292c6ad5Fc": "https://t.me/joinchat/i-I_RMSm-Z8yZjNl",
-    "0xeE814F5B2bF700D2e843Dc56835D28d095161dd9": "https://t.me/joinchat/oXmH4CuYXzhlNzI9",
-    "0x1a4590f128d90a6B9576F99926E4D5c8ad855C97": "https://t.me/joinchat/5aQqdMF4Njg0NjY1",
-    "0x36C0556c2B15aED79F842675Ff030782738eF9e8": "https://t.me/joinchat/VRtcRqM8hzBlN2Jl",
-    "0xa882Fff751B2C9fDBfDdf6De732aBa6B0F0b3887": "https://t.me/joinchat/8EoBDKdw_KAyODI1",
-    "0x5918F3f2f3a8E018754dCB1B9a9CEE13ABD5A357": "https://t.me/joinchat/wNF7GljPnQhkOWE1",
-    "0xC13a1B47377A8382BD3F6F9105137c1e838758b9": "https://t.me/joinchat/hJXZp2uqTFY5YmI1",
-    "0x865d0c78d08BD6e5f0db6BCbF36d3F8EB4ad48F8": "https://t.me/joinchat/d__A-DrB3T04NGQ9",
-    "0xBB994E80E2eDc45dCe9065bda73ADc7E9337b64F": "https://t.me/joinchat/jUqxkW9u9KAzODI1",
-    "0xDD87Df4697527e6fBc5586cB0105bD8aB0FA7A61": "https://t.me/joinchat/Sp6QSD8exOw1Mzll",
-    "0xCEFc09127708Ab29b427857d545bc1A07Ee5dc45": "https://t.me/joinchat/PLgVIjh7QsRjMGY1",
-    "0xAF169E53e9f07DE6F9F4Eac67e2833C623f0c122": "https://t.me/joinchat/ndzA_6zWLwQ4MWRl",
-    "0xE0B40b32Ce117Ab66f40951033d1b9C6e5D75EBB": "https://t.me/joinchat/f22qv5AaMboxMDI1",
-    "0x171401a3d18B21BFa3f9bF4F9637F3691158365A": "https://t.me/joinchat/HG9_FEgIrkwxYTE1",
-    "0x69Ef774aE2B47a7E574b15d9f8E87c3B0ef6373C": "https://t.me/joinchat/muzqkp9WnfE5MTU9",
-    "0xF1720079f5611A589795C5C3BA114F112B53e17E": "https://t.me/joinchat/OImz4om82ts5YjU1",
-    "0x68E374F856bF25468D365E539b700b648Bf94B67": "https://t.me/joinchat/5dD7kqVhjzBiYmZl",
-    "0x43F3918Ff115081cFbFb256A5bDE1e8d181f2907": "https://t.me/joinchat/Pak9WDWCGqJkYTRl",
-    "0x139dd9203c8E46d15B3896814Dc9424c5e5559fA": "https://t.me/joinchat/pLX9voZQL5xjMTI1",
-    "0xb49568F7E53AD7ef3F5154C6026348bF5d1e0D49": "https://t.me/joinchat/GSspzhICfqk5NGY1",
-    "0xaCbF7C954C7cE8F14bbc553C1A86c303bE351339": "https://t.me/joinchat/aKP8YVtOQxFjOTJl",
-    "0xBF746586E1758E4a3038768144b4DA8f09022f77": "https://t.me/joinchat/Sm-vASyE-49iM2I1",
-    "0xAaD87f47CDEa777FAF87e7602E91e3a6AFbe4D57": "https://t.me/joinchat/RYMyq5_iD6Y5ZDI1",
-    "0xbE8183612F145986A41ad8e8fCFefED1C2F9dEbA": "https://t.me/joinchat/nB0F5l592HdjZDFl",
-    "0xd8f90438DDd9e99B581F49257D078E8E39fC5e31": "https://t.me/joinchat/YHuEUgZ4P9djNTll",
-    "0x87Ffc48C9f89fc5dfA05836e083406D684FD6331": "https://t.me/joinchat/CKmE4gMWM981NmU1",
-    "0x75AD26795305a589Fb5C68E2cD4DAfeFC6Ad41fF": "https://t.me/joinchat/xMFmyWylLNhiZTFl",
-    "0xb6C53431608E626AC81a9776ac3e999c5556717c": "https://t.me/joinchat/rRnv2ST4Dxk0ODU1",
-    "0x4E7Ae924FD9a5D60b56BE486b2900efE0c6a9CA7": "https://t.me/joinchat/u3Ot-ONJj4I5Y2Jl",
-    "0x0C384832e340b0a481b6Ec313bD0Fa0d7a267024": "https://t.me/joinchat/NCWoTf1sowM4MTNl",
-    "0x8B48B1941DfC1E18b98f75F1b6142d1a386f122e": "https://t.me/joinchat/TKnvVXfxEGEwYjZl",
-    "0x79BA0ab945fae020424F2a0D8a0Ec8520E26f5b0": "https://t.me/joinchat/o6aElGXRc4c2MGQ9",
-    "0x13958e1eb63dFB8540Eaf6ed7DcbBc1A60FD52AF": "https://t.me/joinchat/qfcVOFuzTHw2Zj",
-    "0x2802eb3a20f5892956D5B9528F6Bf13E648534DB": "https://t.me/joinchat/DnXsKZ5A77NmYTY1",
-    "0x7F2f16979c05188b6B185397dd66f4546F8d3A1C": "https://t.me/joinchat/fmanQKzS-Kg5OGFl",
-    "0x869Dd7A64AfBe5370a8c591d9B8650BE60c0B8f6": "https://t.me/joinchat/YBZb_W4p1cZiNDVl",
-    "0x0321394309CaD7E0E424650844c3AB3b659315d3": "https://t.me/joinchat/ORzKfwU_VvU4YWFl",
-    "0x14357D294fBabbE0fbF59503370c772d563b35b6": "https://t.me/joinchat/qVtmhPedSGI5ZDI1",
-    "0x2a49De60cc6204c3AFC3e770FDB30A0554147519": "https://t.me/joinchat/OIk8Dcj7icU4YWRl",
-    "0xF017E2773e4ee0590C81D79ccbcF1B2De1D22877": "https://t.me/joinchat/doJ5oiwG61k2ZTk1",
-    "0xf4a037785b3AE6C70F9Ed71fA2084B3589CABd46": "https://t.me/joinchat/S-ah8fcpnoEwMDM1",
-    "0xcb5f99EC2f2640fB91c155Ecd78b88eD1BC29570": "https://t.me/joinchat/Xfj8LBtssN80OGZl",
-    "0x12A74014c385C4b391c21e5Fc2439B70Fa5925Cc": "https://t.me/joinchat/bDv0lHbHJQJhODQ1",
-    "0x23F7f71A183698B253F1D5c76a6fA0b5Acbb0C05": "https://t.me/joinchat/0t2lIhfZMHtmZjdl",
-    "0x513bd0B72a2006Bf35d6EB12e5AdD5675DeCB7e7": "https://t.me/joinchat/n6aVGXplvwAzOGNl",
-    "0xb06Bda58DC90B1732d1e17B7aF9ECd310269e58f": "https://t.me/joinchat/X2qS2EYHe7dhZTY9",
-    "0x76693053e7047517AD823572d6b3b112FA4c24d8": "https://t.me/joinchat/kzh7pQ5uCqA5Y2U1",
-    "0xbcD3FCA7D60e738753E09955C03F75427E42761a": "https://t.me/joinchat/pSLKp1Yi9FU4YWZl",
-    "0xfC13a56fE9eD0d4f6C7470E01d88C2fe18f6c27C": "https://t.me/joinchat/kzwAu7-ZtfE5Y2Y1",
-    "0x65d5b8C596A12b3108A8d75B0Cee8d6f8A7aBD8C": "https://t.me/joinchat/yzSV0Dk4f8kxMTll",
-    "0xcBB09097d442f267f0780064a082ac06D947311f": "https://t.me/joinchat/7bUFFNHDDrZkMGQ1",
-    "0x092BBec1342affFd16Cfb41B56343D5A299CDf0D": "https://t.me/joinchat/Dpvzb76m0qs5MzQ1",
-    "0xbE9605A0bf1eF8A4235E2C1DA83Dd3AA7702C7CE": "https://t.me/joinchat/xs2zQb5r6Tk1Nzc1",
-    "0x3504de9e61FDFf2Fc70f5cC8a6D1Ee493434C1Aa": "https://t.me/joinchat/CKSdgJQl-Qo1YTJl",
-    "0xB64E638E60D154B43f660a6BF8fD8a3b249a6a21": "https://t.me/joinchat/PtE9erP-Y5QzY2Nl",
-    "0xfb16B31FA8a6Edcd2dDE78654CB0668c724C1dAc": "https://t.me/joinchat/u4aAY2f8D1IzZTk1",
-    "0x0Fe3e956D2034BCEF01FbA8A2BfCA389cdb72699": "https://t.me/joinchat/qtP-a0_PurUwYzM1",
-    "0x68590a47578E5060a29fd99654f4556dBfa05D10": "https://t.me/joinchat/VEHPAa_JvZk2MTA1",
-    "0xE1F2d89a6c79b4242F300f880e490A70083E9A1c": "https://t.me/joinchat/4LliMyFoPSI4ZmZl",
-    "0x493880798B67f6ba85bD87403024aD27D4709782": "https://t.me/joinchat/jC3dg2u___0xMTQ1",
-    "0xa9c41A46a6B3531d28d5c32F6633dd2fF05dFB90": "https://t.me/joinchat/PDJZ052odmI5MzM1",
-    "0x622A1297057ea233287ce77bdBF2AB4E63609F23": "https://t.me/joinchat/OJ3ITUT0dNllMDFl",
-    "0xEEe64EC09F07c8dBb31e36Df86EA095B140505aE": "https://t.me/joinchat/DHf4uwgKfb9kNzg1",
-    "0x3D29Aa78fB558F84112bbC48a84F371147A920C9": "https://t.me/joinchat/bWfraBs5ryVkYWM9",
-    "0x27327672D1dc51F4Dc58c9F413E1FA7e7ad8245e": "https://t.me/joinchat/XIo4fQrufwRjM2I1",
-    "0x41100E72A52031907Fc3B28E1572Dc4c104EE980": "https://t.me/joinchat/1GHMWnp_UQc3ZDY9",
-    "0xA656F993bD14B2B59a28d1e610476AD18849b107": "https://t.me/joinchat/4IQyyx5Py8EyMjI1",
-    "0x68991c5251662d04182fCCc48501D7261c03d5f8": "https://t.me/joinchat/AEePX9zXFDtiYTg1",
-    "0xB3225aC90B741f762BecA76dEA1eaD278Ef26A96": "https://t.me/joinchat/jgro0Bm3Z4M5MDhl",
-    "0x9C3Bbff333F4AEAB60B3c060607b7C505Ff30C82": "https://t.me/joinchat/6ZxjB1d4pptlZjg1",
-    "0x8592fb0E6724A90CE45f05F31B85BddD45931560": "https://t.me/joinchat/qVr7UKnYaIJhNzFl",
-    "0xEFbA8b41e3495ad52258DFe916199Dc643F99dA2": "https://t.me/joinchat/s8_C-kBnhbEzZWI9",
-    "0xf73Aeb4d845F6E6B5ABbb7CE699cEDb80399da26": "https://t.me/joinchat/LRbDh6y4kYkyNzQ1",
-    "0x338196a509B4c66749c3f44c21C00501E6ACF7BC": "https://t.me/joinchat/C89EUXNZiKQ0OTM9",
-    "0xF34dF425A9e2a97B52BA9D4bdA6c03d8598e66BC": "https://t.me/joinchat/xpJxWbOPyTswNGZl",
-    "0x669288ADA63ed65Eb3770f1c9eeB8956deDAaa47": "https://t.me/joinchat/bAKqiZ2pe4RiYzBl",
-    "0x683B98716c1Bde0D7dE9362Ec304E7F81a6c68Ab": "https://t.me/joinchat/p6jFaDecd7Y2NWI1",
-    "0x96bbE4376802eCc0eFD330AF76B8873183270671": "https://t.me/joinchat/mtqvNgvBXvs2NjBl",
-    "0x8057De2aFC2169f99f88C0939ed0bE113f9DB939": "https://t.me/joinchat/cz_osZBKvbY0OTI1",
-    "0xED6b5b5d037ef636b3cBe21360FAAeA8ac8F6F58": "https://t.me/joinchat/XU8aFagNgzQ2MmU9",
-    "0x44E5436ae19AA2bd76C5C397E7a622e3D35d6059": "https://t.me/joinchat/PTGk62ZqvHcwZmM1",
-    "0xf5F7ABbf5Dd2deCc9c1ba09Cd0e77997C8083AD5": "https://t.me/joinchat/EBoB2Z9L_DBlMWVl",
-    "0x203dE499F76F589f80b371A54a98e438339C5563": "https://t.me/joinchat/LWfdnIjvVxc2OWE1",
-    "0xB365C7EC3610b35e7dfFe83a160F0098633305A4": "https://t.me/joinchat/iR8Rir0PN1M5M2E1",
-    "0x67ED0A0b32F239A3FCd1b8C21bef7d86578F106b": "https://t.me/joinchat/c5snQeFXF5g5YzQ1",
-    "0x6097b1962Adf48c9Ed48672adD19FE70F617AeeF": "https://t.me/joinchat/hC5kNXmdWfE0NTM1",
-    "0x3c730718C97A77562866B5D29B33228c019eAC68": "https://t.me/joinchat/Z-xd7hfPjOBlMjFl",
-    "0x79e9695580D3Fa86615eF4c53dE8C0dfaA5FCA7c": "https://t.me/joinchat/jVu6dhqNfN8wZjNl",
-    "0xe7754E3ae76DF70DF97BC762762b78679Daf0e27": "https://t.me/joinchat/nrB2KORCtEs4ZGNl",
-    "0xE4aB812613F03D2B00D34bfa43F1B7cf211A10d7": "https://t.me/joinchat/6fa2xkkaHvszZWVl",
-    "0x9e6f666Ef48f7B615c5286BE76fc058b40fACec9": "https://t.me/joinchat/C9bRLdvF2cgyZjFl",
-    "0x93bc19c415C75770D37fE4D76bFbb23387d28f0F": "https://t.me/joinchat/tcFdMwYO1IwzOWY1",
-    "0xEb556e3B799E3AC69Ea03f25561559229cF7457c": "https://t.me/joinchat/wtmlGPekjfsxMzA9",
-    "0x3a408C5Bec5ADD9035867310D5573bef984d7cc9": "https://t.me/joinchat/RYUgXuuXvjc5MDFl",
-    "0x7E0F01918D92b2750bbb18fcebeEDD5B94ebB867": "https://t.me/joinchat/xDLkaoj4fKpjNjll",
-    "0xDfDec49462f7D3C3b0A48E729F77A0645CDFA7c0": "https://t.me/joinchat/WtNBiOXcj-w1M2Jl",
-    "0xA43779cC2F221b0e41D107ae1fc757E470d41e50": "https://t.me/joinchat/Y-YTLdJqzGg4NTBl",
-    "0x35278ccF9bdAe082E97D29Ed6A8F73E89A75159d": "https://t.me/joinchat/Tx1ndrPhGlgwOGJl",
-    "0x337e35Ed5B38D5C7Ec9F8d7cF78fe7F43d7DEC6F": "https://t.me/joinchat/N5io8h-a6cYwYjQ1",
-    "0x8fD02B3ab3E216cf00d8C66db4ebd9F1c93ea5bd": "https://t.me/joinchat/gWi8QTNcebQ4NDg1",
-    "0x9E1892eD30796FF96aBBb1b6A5e722C6ea9C46eB": "https://t.me/joinchat/LZNDCKp6NA00ZGNl",
-    "0x159802FBE16Aa6a0863a56a18DD41Afce546c93E": "https://t.me/joinchat/Ac_F1OU5lg84MjRl",
-    "0xced986aF3e17b27775952Bd920f7395B00dcD294": "https://t.me/joinchat/3Jci-GrGHjk0NDQ9",
-    "0x9B8d33e184Cd72b22841275f30A66cEd6fC98D09": "https://t.me/joinchat/g7Yh3JD2bcE1MWQ1",
-    "0x400613f184D1207f5C07a67D67040A4e23E92feB": "https://t.me/joinchat/yTK1r5JCd48xZjc1",
-    "0x32089eafFaf278C82cda2c8d37e7b6b6faBBaAF2": "https://t.me/joinchat/KBU5tLEG2rViMGI9",
-    "0x9a6fDa69FA9859B169EF17b600Ce81c59Cf16F01": "https://t.me/joinchat/WEatfkBBKvQ5NjQ9",
-    "0x4A824eE819955A7D769e03fe36f9E0C3Bd3Aa60b": "https://t.me/joinchat/UO_ZhhSQMedlOGJl",
-    "0x17D749D3E2ac204a07e19D8096d9a05c423ea3af": "https://t.me/joinchat/lZesYIFaMKA5Mzk1",
-    "0xD047bd94f90A95B38Df6E1EA67796F571F46536B": "https://t.me/joinchat/cEfzhtHpewBhMmE1",
-    "0x954BE3E377661a2b01841e487CA294c4204DBB79": "https://t.me/joinchat/mH1tkGj2t7E0MjM1",
-    "0x0fFB09e25d2Cb7D56EF3eA7Fac08756Dfb579208": "https://t.me/joinchat/Kz1pJEe3WBk3NzE9",
-    "0x29232A744726a18b283388c6D132Cd197B79551E": "https://t.me/joinchat/pd9yyZ51Nz9hMzJl",
-    "0xD914Bde476B6e44b7A1579b21F0F9193EA55F852": "https://t.me/joinchat/qab-4p96gP84ZjY9",
-    "0x1d64327C74d6519afeF54E58730aD6fc797f05Ba": "https://t.me/joinchat/48dvPvE2YIkwNTM1",
-    "0x86f5A70511B55186BBbe8276B02340B2abA9E4a5": "https://t.me/joinchat/eoi1y9hzZr9jN2Q1",
-    "0xbB8170ad35325522c0026d67584D4feFBd08b750": "https://t.me/joinchat/gOjqEHze0sEyMDBl",
-    "0xBBe899c61198D1826a43e20ea19efC46E50c2B00": "https://t.me/joinchat/eEufHmXtv_o3OGY1",
-    "0x1aD7dbE0D521Ca1ae72DecC06f1570aa43C781A2": "https://t.me/joinchat/3K97Y-0JcqJjMTVl",
-    "0xB5CFc7B83c020109E466589ae18941F12AE22d44": "https://t.me/joinchat/o0gUHZHX35c5NjQ1",
-    "0x40B165Fd5dDc75ad0bDDc9ADd0adAbff5431a975": "https://t.me/joinchat/3iMBS-QjP2s0NTQ1",
-    "0xe1dBf7F4b4852d97095344CB2d97e01Cbc80b581": "https://t.me/joinchat/vafMWjN31NRlYTdl",
-    "0x42F21Afb0EA9Bf6d54cA1bE23B8b5681e0b641c6": "https://t.me/joinchat/AEd-XTnwheE4N2E1",
-    "0x6E1b4BA8F5bE7708cD475795FC23924eD078A8d2": "https://t.me/joinchat/VpO3Uug5uD00NmU1",
-    "0x0b3f42481C228F70756DbFA0309d3ddC2a5e0F6a": "https://t.me/joinchat/U8fjXmHrKPo2YjY1",
-    "0xB47D8D9CD415DAE40E364b140ae6aF186e2332f4": "https://t.me/joinchat/t7y7XAInxPMwNDk1",
-    "0xA1A0C7849e6916945a78F8AF843738c051ab15F3": "https://t.me/joinchat/fzXJsV2YKmlhOTc1",
-    "0xc91D49653F0364aA9C7877697eB27313c973ad9D": "https://t.me/joinchat/BygPRmypmsQyMWVl",
-    "0xdB238123939637D65a03E4b2b485650B4f9D91CB": "https://t.me/joinchat/sUmWEvPD2J5iZTE1",
-    "0x099B8575dfDF1020e07e1D54E125a5bC23433f32": "https://t.me/joinchat/xWZZ82vZtCo2OTQ1",
-    "0x4Efab39b14167Da54aebed2094a61aA1FD384056": "https://t.me/joinchat/e3pHUlJLV7xmODM1",
-    "0xcF654A685e6415a026A6B1C530d49eBa8869f8a4": "https://t.me/joinchat/AqmUYAyw1-M4YjJl",
-    "0xB3b518cA093856D696e9681731B41919A548dCFA": "https://t.me/joinchat/d0WNWjebZxAxOWE1",
-    "0xB78D1edfeD9c93d7EfFD396F95997483f60b869E": "https://t.me/joinchat/q1RCIDxFDaU3MjM1",
-    "0x096DABB653E1C7e62F4aBB6D519ba87ad61FAD34": "https://t.me/joinchat/8R3oCom0UY05YmE9",
-    "0x115A49871F02c522090cb45bBe715dB406cafa33": "https://t.me/joinchat/SafpliVkJUE3NzM9",
-    "0x451A22A201fCc56C76da86361D77cD17D381453f": "https://t.me/joinchat/By-im9uvczJlNjBl",
-    "0x75dffAf163D67591fDCa3907a50655dB3a5516Ed": "https://t.me/joinchat/lNkXO7roOHMzNWVl",
-    "0x768d221E81524De52841AeD976370b2e4F990416": "https://t.me/joinchat/_Ix7oAXtnC9jOGY1",
-    "0xD4ED4a27ff7EaE121C487D841e530Cd0dA65c6b5": "https://t.me/joinchat/axS4aTlfYD4yYWU1",
-    "0xd494D6e25c554776f32d0247E6795a5D68DC4AD1": "https://t.me/joinchat/lChnnqhnE6szYTk9",
-    "0xA3dB8318cF5B8e6ba512114FB9c1Fce2cac0cd5c": "https://t.me/joinchat/fh7ThU1in8BjODBl",
-    "0x6A46d878401F46B4C7f665f065E0667580e031ec": "https://t.me/joinchat/JHvZT1nJqv43OGNl",
-    "0x246475dF8703BE0C2bA2f8d0fb7248D95Cc1Ba26": "https://t.me/joinchat/_mm56c7DVephMTQ1",
-    "0x5baeBd214FdAe546ce39750B8363e799E2ABa21E": "https://t.me/joinchat/vgrUZerGfbVhYWY1",
-    "0x046f5374185A00c7c3EADD0f96c6038b7d5F047d": "https://t.me/joinchat/t1A94EwQTvQ5ZWFl",
-    "0x016c8dA9D916905a00eF26a2e7dC2EE67B6020cF": "https://t.me/joinchat/G9i2_v3LqUkxNTU1",
-    "0xDA360309C59CB8C434b28A91b823344a96444278": "https://t.me/joinchat/4XKvaHfNA8hkYzll",
-    "0xb74ed4112C23B7c8ef1439FA55D304D537C5599B": "https://t.me/joinchat/mBxCSIcN8fZhNjQ9",
-    "0xea90DC6F64d18771Ca1dac8098526a9082265B42": "https://t.me/joinchat/IKhxVXXAP8VlOWU9",
-    "0x772B07C6EA6614dd153d16CD531C145F3ce9840A": "https://t.me/joinchat/64EL0WWtjdxiNTRl",
-    "0x87eba250A34E7486eaB140d89e2EB5d8d113EA2d": "https://t.me/joinchat/1TeruPa1UOs2ZDA1",
-    "0xA3424FB48b9FA2FF8D3366eD91f36b4cDa7cAdd8": "https://t.me/joinchat/i9DuoBDvL6djMTE1",
-    "0x1936De3FCBa6460Ba1f4addb4829573386ff30fD": "https://t.me/joinchat/pMatXRlC70I4ZmJl",
-    "0x8869eac0D82245A2df50a0FAD770D72CE63649d1": "https://t.me/joinchat/GQE7wBC1EU9lMjVl",
-    "0x86dd49963fe91F0e5BC95d171Ff27EA996C0890C": "https://t.me/joinchat/xS0cbMHBUXwyZTA1",
-    "0x9ce5222A0419cc4d25Ece978AAA5d8C31b3565E6": "https://t.me/joinchat/qqd74M71kewwNjc9",
-    "0xB09FE1613fE03E7361319d2a43eDc17422f36B09": "https://t.me/joinchat/TXyl8iwMRa1iZDA1",
-    "0xF839B455C1f18BbCFE0f1bfa6A914B0baA0Db7aD": "https://t.me/joinchat/TbyUOFsEiEMzOTJl",
-    "0xd156f464A0f6dDAef6c157fb71168dD5cD16c587": "https://t.me/joinchat/xXdtkDtlucg0NmVl",
-    "0xeb0173EE5859Df064997D5e49218F7D55BB4363c": "https://t.me/joinchat/GG2THZcW8z9hYzJl",
-    "0x7e4e3BA4675c39FF2863073e171b0a2E93A592E0": "https://t.me/joinchat/2Fd6-_M-ZwJkODU1",
-    "0xC597aC255B22080f092D3E4a13CaBC1838EE5371": "https://t.me/joinchat/FwDHMKI4nI85OTNl",
-    "0xa96658cd0D04a8fdCDc30D1156CC65BbFC7591eD": "https://t.me/joinchat/jhabRSzSC4U0MmY1",
-    "0xEB1EcCE22836c2B551819E156813A087A74CAc76": "https://t.me/joinchat/0306hRcf22c2ZTFl",
-    "0xdD1a151Dcd44e9d544568D5B9AE36A46AA24d62e": "https://t.me/joinchat/cQzoCwoCR2FmMjI1",
-    "0x26Eab2d1494f82cf694E2A49E0A889F7a66178F4": "https://t.me/joinchat/Gdunspv1ShdkZGRl",
-    "0xF11746b354aE4671dd6Cac6bD7Bc167DF0C79Be2": "https://t.me/joinchat/fhdvt6wjZBhiYzY1",
-    "0xC62eF0d8e137499833AbB05Dee47007D2b334bA6": "https://t.me/joinchat/GADpwJcrr4kxYTg1",
-    "0x4f7213244b1F7a0244Fd3416eCc69622542b7756": "https://t.me/joinchat/yp2zSbq23QdhMGE1",
-    "0xDBe7C17c620B1f4AE7447F5b86146D1C4E5BA129": "https://t.me/joinchat/4j5CiszWjSgzYmI1",
-    "0x01eaedd1BC5F8198D174532Aa13BA150653E0E11": "https://t.me/joinchat/xkkpkT_LBl1kYTFl",
-    "0x5C9eEFADb1989115a35BDF2f5917AD38208125C7": "https://t.me/joinchat/OszqFY97Tjs5NmVl",
-    "0x07C0755c5c8Ac1243DEb7498f27EdEDF9b01C5B2": "https://t.me/joinchat/7ayylPaPz2VmZTA1",
-    "0xD20595346CA72f82BE355E2a603BFA8B0Fd86E33": "https://t.me/joinchat/9j88TrK-dGUxYzll",
-    "0x494A2f5395aC213622762e4ef4d44661758Ca639": "https://t.me/joinchat/jwzPjqE1Nq1iMjE9",
-    "0x9757f5A83FAb0E858c90273493dB3d9801C8Dc2a": "https://t.me/joinchat/lmrUvYodBX5kYWY1",
-    "0xDbCa1Fecbd2d3AE9EfC48f3E823fedE48530551a": "https://t.me/joinchat/L7xoXu9j3gM5MjE1",
-    "0x293C3Ee9ABaCb08BB8ceD107987F00EfD1539288": "https://t.me/joinchat/dUr4WapvhxU1OThl",
-    "0x1592271a485E7F12De1EcCF2555cea7763f29cAC": "https://t.me/joinchat/V6eikkVVzLgyZjk9",
-    "0xAF7C26f79D19167b516A460DDfFe2B722df6223c": "https://t.me/joinchat/G3gJph9JLTNhOTE1",
-    "0x2A0196e707cE3Fc6c3cB07AA8f0123456636f52c": "https://t.me/joinchat/vYxg3RgSx7E4MDU1",
-    "0xA2D3e8E0723c6Cd0fBC0409FEc13B9E67B2420bc": "https://t.me/joinchat/HH2TN8E_bQVlZTVl",
-    "0x707C9088313B20931c05D16227f146279eC28e4E": "https://t.me/joinchat/3b0jiXuwRqhlNjY1",
-    "0x9AA18A4E73E1016918fA360Eed950D9580C9551d": "https://t.me/joinchat/Xr5adQIgds1lOTZl",
-    "0xAC543b0dE08e8396b4dF878355F504c203aC1313": "https://t.me/joinchat/FI46hnDhb0lhZGE1",
-    "0xC4eEFF5aab678C3FF32362D80946A3f5De4a1861": "https://t.me/joinchat/4H0-ptMOu3E1MDY1",
-    "0xc7435088819F1AF950357fED65BE856165cC3abB": "https://t.me/WBTwaterfall",
-    "0x2020EB9E26aa49c27ebB72C174cfbab851f7ddE0": "https://t.me/joinchat/b49zXhQZ0yZiZWM1",
-    "0x3766468340fd822A46F368A13F20a8898bb2E2e4": "https://t.me/joinchat/97pgXR_BRZ81Y2Fl",
-    "0x3279510E89600ee1767a037DBD0aD49c974063AE": "https://t.me/joinchat/JVV8GpRvssUwNGI9",
-    "0x57c56665B2bcdf3CB86E40A9D3DC21f5b0AeD7Ad": "https://t.me/joinchat/HvXBSU_vMsZkN2I1",
-    "0x03FfFb18C0EA6B0aD4fa3b5226512B334587686F": "https://t.me/joinchat/P_4zha9PVJRhNzg1",
-    "0xEb4f4d09CcBB3be5bf83c26a42282652913aDB59": "https://t.me/joinchat/pFZWE8t-zAxjNGZl",
-    "0xA3A02553bDF42bE18B3563D5C7968768530f5A73": "https://t.me/joinchat/0SFZ9tiCt5w2ZWRl",
-    "0x50052B73b25947B26CFf778DEDE2875E97f0A919": "https://t.me/joinchat/uWgeh1bAZt9jYjZl",
-    "0xf3F4Ca91BbBE84A89b4c3C17BeD4a6DdE8c06585": "https://t.me/joinchat/q4dWuVIV4SxmMjM1",
-    "0x88C676FC777c225B69869AeEf5d10535dE1E4F5D": "https://t.me/joinchat/fJ_Xgtdxm3I3NTll",
-    "0x3cC5530f60bF53A29916363aD7795740B0B5c6A1": "https://t.me/joinchat/-gLYxIP6LU05ZTk1",
-    "0xfAF17a5330dfff5749Ff5127C71c341E13E414B0": "https://t.me/joinchat/evGQ6NbIVr9iNzZl",
-    "0x64f5a1D85cF52c15e53335BB9b432a0Ad4c0ba5E": "https://t.me/joinchat/49gA3i5omCFiMjQ1",
-    "0xc748673057861a797275CD8A068AbB95A902e8de": "https://t.me/joinchat/qglSPnOlINFhZmU9",
-    "0x7ccE94C0B2C8aE7661f02544E62178377Fe8cF92": "https://t.me/joinchat/ja9bAQleTRwyZjA1",
-    "0xD2618bC9c9cDC40ff19e200a7d14A09799C0a152": "https://t.me/joinchat/unM0j9RbcLMwMTNl",
-    "0xBa07EED3d09055d60CAEf2bDfCa1c05792f2dFad": "https://t.me/joinchat/SJehZDroJ7FhYWM9",
-    "0x6419a6a21F823436D30e03d7fCB0F59bb5392Dbc": "https://t.me/joinchat/5Bn1vHwWWyJjZjE1",
-    "0x855da01957DbC39cC53464dBc6b90817f5d12109": "https://t.me/joinchat/b5cmCHIttpVmYWNl",
-    "0x3DAB450ee6451762E72647A05a205dd5697c5C2c": "https://t.me/joinchat/dBoSVmClsqxlMGE1",
-    "0xfb62AE373acA027177D1c18Ee0862817f9080d08": "https://t.me/joinchat/BPF56VonlCk5OWNl",
-    "0xBCA627FEd3b6E8F414C745E12B2b89371497779D": "https://t.me/joinchat/TQMyetIimes5YmRl",
-    "0x9029FdFAe9A03135846381c7cE16595C3554e10A": "https://t.me/joinchat/lddAEQKiSCpjZDg1",
-    "0x0E7BeEc376099429b85639Eb3abE7cF22694ed49": "https://t.me/joinchat/wvIzy6AP1ZozYTQ1",
-    "0x37cbe09a20cDD8300efE091e3af373384870eA4c": "https://t.me/joinchat/dmOt2BdoJe1hZTE1",
-    "0x0bC37d86e41dfA71555A8D8894eEA9E4Fb634438": "https://t.me/joinchat/9POBlONfBpM0ZDll",
-    "0xdDa82F136576AE87d2702BB05370aF274Ce71dd5": "https://t.me/joinchat/l5e-jPYojUxmNzVl",
-    "0xdB8D30b74bf098aF214e862C90E647bbB1fcC58c": "https://t.me/joinchat/c1l_l9RTDKw5MTg1",
-    "0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6": "https://t.me/joinchat/A7mziFMJxq0wMWM1",
-    "0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0": "https://t.me/joinchat/6qhIOslvZV00OGZl",
-    "0x154A9F9cbd3449AD22FDaE23044319D6eF2a1Fab": "https://t.me/joinchat/uSNf6KuSa4YzZjY9",
-    "0x9F2AA8fc249dFc59b6F52bBd5229ebe0A533da4d": "https://t.me/joinchat/GqOATXPFEeA3ZDVl",
-    "0xCA6d25C10dad43ae8Be0bc2af4D3CD1114583C08": "https://t.me/joinchat/N45a79nBIAtmMTc9",
-    "0xA58950F05FeA2277d2608748412bf9F802eA4901": "https://t.me/joinchat/SRf_glZ9cypkMjdl",
-    "0xa2E47AB6Ce867A974cE994dE6f5A040017a3EE39": "https://t.me/joinchat/FL0JWNmOiJY3MjQ1",
-    "0x8C8B57F82b662553B2BdD053c7154Fe1821cC9C4": "https://t.me/joinchat/lETFGQu9JWM4MmRl",
-    "0xC2fe5153f611781Cd8481268B3dc7826a3413959": "https://t.me/joinchat/k4wnTTdlat85M2E1",
-    "0x0921d788E7f7498f80adb0A0A62B8A9476F2Db92": "https://t.me/joinchat/OEuwIFjvNNowNTc9",
-    "0xa1D04A189f8b6d5d64e8Fea7c38846AB6fa0F823": "https://t.me/joinchat/1Q-Cc5MY7EtlYTY1",
-    "0x52D88a9a2a20A840d7A336D21e427E9aD093dEEA": "https://t.me/joinchat/CetenujcBlEyY2Nl",
-    "0x57AdCe4FACBBBb8c7F0890eebBE3A416626379be": "https://t.me/joinchat/Kq8v5w0AVBFhMTZl",
-    "0x917841c010b3d86ED886F36F2C9807E07a2e3093": "https://t.me/joinchat/ROVW0gaV-SQxNmU1",
-    "0xA38898a4Ae982Cb0131104a6746f77fA0dA57aAA": "https://t.me/joinchat/XCAF_2vaBpcyNGY1",
-    "0x903fCaf1A49B29678C15B43bc9F852232BfA7dF1": "https://t.me/joinchat/ZUoTnD_Kbxg5MmY9",
-    "0xE821FF93aCd958D8EF637ff9627217d28A5B6845": "https://t.me/joinchat/xuwztANqMYxhM2Zl",
-    "0x124831BB885DF3c4bf88176A478Ff1b3B95f3769": "https://t.me/joinchat/gMrPWb29WE83MDg1",
-    "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C": "https://t.me/ELKwaterfall",
-    "0x633237C6FA30FAe46Cc5bB22014DA30e50a718cC": "https://t.me/joinchat/wt93Cc0giRowMGI1",
-    "0x655A46cd88e18a338ECE048228a388c25BFdA9f3": "https://t.me/joinchat/3wukUN75QlM4MDFl",
-    "0x6b7Ccd19B78F57EFaa89e6291b8834831C2F539f": "https://t.me/joinchat/4i87iRbCvLNjOTQ9",
-    "0x02df6cF91C519db4aC254216A8Ed3A17aeCFaED7": "https://t.me/joinchat/ii-sLTIG38A5N2Q9",
-    "0x4e8E6b4f70ae735008848ee74EA603D1f8d9ae20": "https://t.me/joinchat/0zxXHK60PUk3NjQ1",
-    "0xd099EC26CCbe9A68a12c5E22fd0a461914014FBb": "https://t.me/joinchat/Mt3SSyQlVEQ3YmM1",
-    "0x23e3981052d5280C658e5e18D814Fa9582BFbc9E": "https://t.me/joinchat/zgMoXt08inhmYzE9",
-    "0x899369213fA897A0611417c7aBf413E464b10114": "https://t.me/joinchat/VQ8tp0oGD98yZjU1",
-    "0xe2cBF8572EAb769311A8c562b00A14Ca55eaa0EA": "https://t.me/joinchat/J2AKxkMYQaszMGRl",
-    "0x77d547256A2cD95F32F67aE0313E450Ac200648d": "https://t.me/joinchat/Vw_R6SW2bxpmNTNl",
-    "0xb9f5C03d733C9F7eBA6B81c48A55ef0bEBBB200A": "https://t.me/joinchat/aW9BhbQb1jk2ZTQ9",
-    "0xc8846B0877cEC21336BA3136208fD02D42aC7b5e": "https://t.me/joinchat/zUboeaqxgOtkYjA1",
-    "0xD0ACCF05878caFe24ff8b3F82F194C62Ed755707": "https://t.me/joinchat/FWJKWXC2KlswNTQ1",
-    "0x8C851d1a123Ff703BD1f9dabe631b69902Df5f97": "https://t.me/joinchat/CYrcBZU96I42YmU1",
-    "0x231cF6F78620e42Fe00D0c5C3088b427F355d01c": "https://t.me/joinchat/P4nRbUWRwJk0NmFl"
+    "0x190b589cf9Fb8DDEabBFeae36a813FFb2A702454": {
+        "url": "https://t.me/joinchat/uAhB7213u_EyZDFh",
+        "name": "BDO"
+    },
+    "0x0d9319565be7f53CeFE84Ad201Be3f40feAE2740": {
+        "url": "https://t.me/joinchat/_2-bqDgxuuJhMDNh",
+        "name": "sBDO"
+    },
+    "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82": {
+        "url": "https://t.me/cakewaterfall",
+        "name": "Cake"
+    },
+    "0xCa3F508B8e4Dd382eE878A314789373D80A5190A": {
+        "url": "https://t.me/bifiwaterfall",
+        "name": "BIFI"
+    },
+    "0x5B6DcF557E2aBE2323c48445E8CC948910d8c2c9": {
+        "url": "https://t.me/mirwaterfall",
+        "name": "MIR"
+    },
+    "0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830": {
+        "url": "https://t.me/brywaterfall",
+        "name": "BRY"
+    },
+    "0x21F2d04191cC95718ebDb166C53Ef8B8E5F21DEa": {
+        "url": "https://t.me/expwaterfall",
+        "name": "EXP"
+    },
+    "0x88f4f207F5DF54E95b53663829412Fc4F85a682e": {
+        "url": "https://t.me/swoonwaterfall",
+        "name": "SWOON"
+    },
+    "0xaC472D0EED2B8a2f57a6E304eA7eBD8E88D1d36f": {
+        "url": "https://t.me/aniwaterfall",
+        "name": "ANI"
+    },
+    "0x8C784C49097Dcc637b93232e15810D53871992BF": {
+        "url": "https://t.me/mscwaterfall",
+        "name": "MSC"
+    },
+    "0xAcABD3f9b8F76fFd2724604185Fa5AFA5dF25aC6": {
+        "url": "https://t.me/msswaterfall",
+        "name": "MSS"
+    },
+    "0x35e869B7456462b81cdB5e6e42434bD27f3F788c": {
+        "url": "https://t.me/mdowaterfall",
+        "name": "MDO"
+    },
+    "0x242E46490397ACCa94ED930F2C4EdF16250237fa": {
+        "url": "https://t.me/mdswaterfall",
+        "name": "MDS"
+    },
+    "0x067a5ad3f0f91AcF512fFE66Ea77f37b4DcaaF18": {
+        "url": "https://t.me/wynautwaterfall",
+        "name": "WYNAUT"
+    },
+    "0x937Ec4c10d072633D4672855B1837BC45879c51D": {
+        "url": "https://t.me/grenadepricebot",
+        "name": "GREN"
+    },
+    "0x4F47A0d15c1E53F3d94c069C7D16977c29F9CB6B": {
+        "url": "https://t.me/ramenwaterfall",
+        "name": "Ramen"
+    },
+    "0x94F559aE621F1c810F31a6a620Ad7376776fe09E": {
+        "url": "https://t.me/joinchat/o1Z7M1gxiMI2NmQ1",
+        "name": "SOUP"
+    },
+    "0xEae68564C96b1e1c471093A539836ae8Bf7C1B65": {
+        "url": "https://t.me/joinchat/xC7b67kbCvRmNzVl",
+        "name": "EBRH"
+    },
+    "0xCD40F2670CF58720b694968698A5514e924F742d": {
+        "url": "https://t.me/ODDZTrades",
+        "name": "ODDZ"
+    },
+    "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6": {
+        "url": "https://t.me/joinchat/UR-NSfb4cHtjYmRl",
+        "name": "HOTCROSS"
+    },
+    "0x41cE0e3Ec91FAE5DaD0F4e6cF4B1A98861272Ad0": {
+        "url": "https://t.me/joinchat/HeyCb37ty1NjZmFl",
+        "name": "HOWL"
+    },
+    "0x95A30F66C6585D8fC75a5645Dbc9ef0B47257c84": {
+        "url": "https://t.me/joinchat/vBryw9hSGWhkOWNl",
+        "name": "GOD"
+    },
+    "0xD79f3E63037Ffb62018C460DEDa651ef066cCF99": {
+        "url": "https://t.me/joinchat/se4C8DEMCfkzYjRl",
+        "name": "1World"
+    },
+    "0x16dFEfF64c532370e8FAa73a7e94e2cCda9342EF": {
+        "url": "https://t.me/joinchat/LKSMqnkE4ZE1NDZl",
+        "name": "bSCooBi"
+    },
+    "0xc603b1fba6A5b502Be4f1Ab27591bF4e75A3460c": {
+        "url": "https://t.me/magiwaterfall",
+        "name": "MAGI"
+    },
+    "0xD1102332a213E21faF78B69C03572031F3552c33": {
+        "url": "https://t.me/joinchat/V8nRrSpoNrereY3d",
+        "name": "BTD"
+    },
+    "0xc2e1acef50aE55661855E8dcB72adB182A3cC259": {
+        "url": "https://t.me/joinchat/ksvI-Gt54_00YTI9",
+        "name": "BTS"
+    },
+    "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95": {
+        "url": "https://t.me/banana_waterfall",
+        "name": "BANANA"
+    },
+    "0x541E619858737031A1244A5d0Cd47E5ef480342c": {
+        "url": "https://t.me/joinchat/4TtwrNAt-tI3NzFl",
+        "name": "wSOTE"
+    },
+    "0x7979F6C54ebA05E18Ded44C4F986F49a5De551c2": {
+        "url": "https://t.me/joinchat/CR8UOV00JDU4YzA9",
+        "name": "KEBAB"
+    },
+    "0xA1303E6199b319a891b79685F0537D289af1FC83": {
+        "url": "https://t.me/narwaterfall",
+        "name": "NAR"
+    },
+    "0x9806aec346064183b5cE441313231DFf89811f7A": {
+        "url": "https://t.me/ypandawaterfall",
+        "name": "yPANDA"
+    },
+    "0xB1aC5dAC9099fDA18390901371Ce03c5eC637C89": {
+        "url": "https://t.me/tbbwaterfall",
+        "name": "bTBB"
+    },
+    "0x9d8AAC497A4b8fe697dd63101d793F0C6A6EEbB6": {
+        "url": "https://t.me/d100waterfall",
+        "name": "D100"
+    },
+    "0x096901973AC5b4dd14728fAE04597b90B2a47da9": {
+        "url": "https://t.me/gltowaterfall",
+        "name": "GLTO"
+    },
+    "0x4f0ed527e8A95ecAA132Af214dFd41F30b361600": {
+        "url": "https://t.me/vbswapwaterfall",
+        "name": "vBSWAP"
+    },
+    "0xF34b702924751434Bdf83Acc2766947d4c38fBEE": {
+        "url": "https://t.me/tastewaterfall",
+        "name": "TASTE"
+    },
+    "0x4fCfA6cC8914ab455B5b33Df916d90BFe70b6AB1": {
+        "url": "https://t.me/slmewaterfall",
+        "name": "SLME"
+    },
+    "0x67d012F731c23F0313CEA1186d0121779c77fcFE": {
+        "url": "https://t.me/soulwaterfall",
+        "name": "SOUL"
+    },
+    "0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F": {
+        "url": "https://t.me/alpacawaterfall",
+        "name": "ALPACA"
+    },
+    "0x5eF5994fA33FF4eB6c82d51ee1DC145c546065Bd": {
+        "url": "https://t.me/alloywaterfall",
+        "name": "ALLOY"
+    },
+    "0x7A9f28EB62C791422Aa23CeAE1dA9C847cBeC9b0": {
+        "url": "https://t.me/watchwaterfall",
+        "name": "WATCH"
+    },
+    "0xC1eDCc306E6faab9dA629efCa48670BE4678779D": {
+        "url": "https://t.me/mdgwaterfall",
+        "name": "MDG"
+    },
+    "0x5573d653Dd0b7265Af26D77055F4F6E9AeA291fC": {
+        "url": "https://t.me/meswaterfall",
+        "name": "MES"
+    },
+    "0x72FEAC4C0887c12db21CEB161533Fd8467469e6b": {
+        "url": "https://t.me/dslwaterfall",
+        "name": "DSL"
+    },
+    "0x8148b58393f00b4B379cBEb8018d3445E0b636a0": {
+        "url": "https://t.me/sailwaterfall",
+        "name": "SAIL"
+    },
+    "0x9ce15E6AC4b22b9163a668747b8D93ceFBAE5099": {
+        "url": "https://t.me/plzwaterfall",
+        "name": "PLZ"
+    },
+    "0x31D0a7AdA4d4c131Eb612DB48861211F63e57610": {
+        "url": "https://t.me/startwaterfall",
+        "name": "START"
+    },
+    "0xE0e514c71282b6f4e823703a39374Cf58dc3eA4f": {
+        "url": "https://t.me/beltwaterfall",
+        "name": "BELT"
+    },
+    "0xC294a07Df611CFc515DcdC7D377648a7a0d85c8f": {
+        "url": "https://t.me/bcuwaterfall",
+        "name": "BCU"
+    },
+    "0xa872E0a44BBd66c1486a756CB5BD3F0bEEC4e32e": {
+        "url": "https://t.me/alphawaterfall",
+        "name": "ALPHA"
+    },
+    "0x6B8227A0E18bd35A10849601dB194B24aAB2C8ea": {
+        "url": "https://t.me/gofiwaterfall",
+        "name": "GOFI"
+    },
+    "0x7b65B489fE53fCE1F6548Db886C08aD73111DDd8": {
+        "url": "https://t.me/ironwaterfall",
+        "name": "IRON"
+    },
+    "0x9001eE054F1692feF3A48330cB543b6FEc6287eb": {
+        "url": "https://t.me/steelwaterfall",
+        "name": "STEEL"
+    },
+    "0x57f81252D1187754048F5aF1938226B9034B599f": {
+        "url": "https://t.me/WATERwaterfall",
+        "name": "WATER"
+    },
+    "0x7B9c3Df47F3326FbC0674d51dc3EB0f2Df29F37F": {
+        "url": "https://t.me/lightningthunderstorm",
+        "name": "LIGHT"
+    },
+    "0x9b9D617D3445f0147Ece2322BaCe8db2768D2770": {
+        "url": "https://t.me/CUEwaterfall",
+        "name": "CUE"
+    },
+    "0x8E83EB3cC2585b9648687C3d1D9C7a2d17448772": {
+        "url": "https://t.me/DAFTwaterfall",
+        "name": "DAFT"
+    },
+    "0x05B339B0A346bF01f851ddE47a5d485c34FE220c": {
+        "url": "https://t.me/joinchat/rqVMnlQLLEw0YWFl",
+        "name": "NAUT"
+    },
+    "0x075FFCe0f10428C4d929032b37597b24f2a3ED51": {
+        "url": "https://t.me/MDG2waterfall",
+        "name": "MDG2"
+    },
+    "0x37F188beB2D6098AFcb9E2714691B9Afa937B01A": {
+        "url": "https://t.me/bWBSwaterfall",
+        "name": "bWSB"
+    },
+    "0x706954491EBFD6b38e5B1e6F079dBEfae0F5EBa0": {
+        "url": "https://t.me/CHZ006waterfall",
+        "name": "CHZ006"
+    },
+    "0x83C43fDc737541196C6085Ae4378dB3Dbaa90c99": {
+        "url": "https://t.me/TOTOROwaterfall",
+        "name": "TOTORO"
+    },
+    "0x9a946c3Cb16c08334b69aE249690C236Ebd5583E": {
+        "url": "https://t.me/joinchat/QG-ImhbhGFE2ODY1",
+        "name": "xBLZD"
+    },
+    "0xA8dA060eBD32A753005c6Ee476A0D79177C6EA8b": {
+        "url": "https://t.me/ybearwaterfall",
+        "name": "yBEAR"
+    },
+    "0x5b147AD94f3f25f6aA94a58aBCcd6745Df36d7F7": {
+        "url": "https://t.me/ybearwaterfall",
+        "name": "yBHONEY"
+    },
+    "0xe3E1FabEaBD48491bD6902B0c32FDEee8D2Ff12b": {
+        "url": "https://t.me/UNICORNwaterfall",
+        "name": "UNICORN"
+    },
+    "0x7EF548Ee7cA0855B18cC5372BD9A34678da43658": {
+        "url": "https://t.me/YFUNIwaterfall",
+        "name": "YFUNI"
+    },
+    "0xc25D94fc3f8D7bD1d88f89802fe075338F71dEC7": {
+        "url": "https://t.me/PNIXwaterfall",
+        "name": "PNIX"
+    },
+    "0x52d86850bc8207b520340B7E39cDaF22561b9E56": {
+        "url": "https://t.me/SWIRLwaterfall",
+        "name": "SWIRL"
+    },
+    "0xE3e8cC42DA487d1116D26687856e9FB684817c52": {
+        "url": "https://t.me/RASTAwaterfall",
+        "name": "RASTA"
+    },
+    "0x53b3bE80206DFC1E82389ebE656aF2e6f81c6BE6": {
+        "url": "https://t.me/WSAwaterfall",
+        "name": "WSA"
+    },
+    "0x5e8499d884B3086D0fC0c21423Fc427e31b7382C": {
+        "url": "https://t.me/mdg3waterfall",
+        "name": "MDG3"
+    },
+    "0x579A6277a6c2c63a5b25006F63Bce5DC8D9c25e7": {
+        "url": "https://t.me/BGOwaterfall",
+        "name": "BGO"
+    },
+    "0x53F39324Fbb209693332B87aA94D5519A1a49aB0": {
+        "url": "https://t.me/sBGOwaterfall",
+        "name": "sBGO"
+    },
+    "0x677f67907173Fc8ad1fcdd182418169cd8e9f80a": {
+        "url": "https://t.me/SAFELAMBOwaterfall",
+        "name": "SAFELAMBO"
+    },
+    "0x7DA85C84b8191A977750382f1B8f4de13dD79E3f": {
+        "url": "https://t.me/IMOONwaterfall",
+        "name": "IMOON"
+    },
+    "0x7B0409A3A3f79bAa284035d48E1DFd581d7d7654": {
+        "url": "https://t.me/RUPEEwaterfall",
+        "name": "RUPEE"
+    },
+    "0xA7f552078dcC247C2684336020c03648500C6d9F": {
+        "url": "https://t.me/joinchat/GUNXFxb-ZRk3NjY1",
+        "name": "EPS"
+    },
+    "0xE354dd77B58471F99795803aC06dBd5236632756": {
+        "url": "https://t.me/DRKwaterfall",
+        "name": "DRK"
+    },
+    "0xA2f46fe221f34Dac4Cf078e6946A7cb4e373AD28": {
+        "url": "https://t.me/joinchat/sAwkNYgQ6doyMWJl",
+        "name": "BAFI"
+    },
+    "0x55472f6d96a371Bd0Bc4D40a305d9f5b294E34d9": {
+        "url": "https://t.me/ROCKETwaterfall",
+        "name": "ROCKET"
+    },
+    "0x661F09989485a671749A6444Ac5b7B032B468B88": {
+        "url": "https://t.me/DEGENwaterfall",
+        "name": "DEGEN"
+    },
+    "0x925f2C11b99c1A4c46606898ee91eD3D450cFedA": {
+        "url": "https://t.me/CHOWwaterfall",
+        "name": "CHOW"
+    },
+    "0x0288D3E353fE2299F11eA2c2e1696b4A648eCC07": {
+        "url": "https://t.me/ZEFIwaterfall",
+        "name": "ZEFI"
+    },
+    "0xCC0d50F79E18AF6D89f36692dB59Aef77E45aFEd": {
+        "url": "https://t.me/PEKCwaterfall",
+        "name": "PEKC"
+    },
+    "0x5ddAe05d2f854926E8070b435d2dfe5edCa246D9": {
+        "url": "https://t.me/KETwaterfall",
+        "name": "KET"
+    },
+    "0x47C4f3ffc31c135AFC0C157068f6E0eEA90b7dC9": {
+        "url": "https://t.me/cCAKEwaterfall",
+        "name": "cCAKE"
+    },
+    "0x97a436E3d1544DcceD1fC879D7BB3a5Ef00C29Eb": {
+        "url": "https://t.me/PLUTOwaterfall",
+        "name": "PLUTO"
+    },
+    "0xf74Ea7Fc5377cd33B68D7b797d46ad72FA2dAC5F": {
+        "url": "https://t.me/THREE_PXwaterfall",
+        "name": "3PX"
+    },
+    "0x4354a4F710182966E55EA30CFa807FA1b821a67b": {
+        "url": "https://t.me/FOXYwaterfall",
+        "name": "Foxy"
+    },
+    "0xAd9787017e82f6368BbE4893b475CaadA2258564": {
+        "url": "https://t.me/BTAwaterfall",
+        "name": "BTA"
+    },
+    "0x433794e21A67a6e526597019eF70685D79eaB10b": {
+        "url": "https://t.me/SATOSHIMOONwaterfall",
+        "name": "SATOSHI MOON"
+    },
+    "0xa184088a740c695E156F91f5cC086a06bb78b827": {
+        "url": "https://t.me/autowaterfall",
+        "name": "AUTO"
+    },
+    "0xDC5e956bfFEf5Eab77357713bb5ED1c9B8cFc67C": {
+        "url": "https://t.me/SAFEBSCSwaterfall",
+        "name": "SBSCS"
+    },
+    "0x33d08D8C7a168333a85285a68C0042b39fC3741D": {
+        "url": "https://t.me/AIOZwaterfall",
+        "name": "AIOZ"
+    },
+    "0x557b3aB377bbD68DFC6dADEFafA3CC4e4B6677c6": {
+        "url": "https://t.me/bpDOTwaterfall",
+        "name": "bpDOT"
+    },
+    "0xB27ADAfFB9fEa1801459a1a81B17218288c097cc": {
+        "url": "https://t.me/joinchat/hyAq4uY2AgRhYzE5",
+        "name": "POOCOIN"
+    },
+    "0x7ca1eBC56496E3D78E56D71A127ea9d1717c4bE0": {
+        "url": "https://t.me/joinchat/hh15LL5RJFZmOTBl",
+        "name": "RADS"
+    },
+    "0x9458784486fb00C2D1a8740d5579207c42DBd602": {
+        "url": "https://t.me/gyawaterfall",
+        "name": "GYA"
+    },
+    "0x358eF99D093F4d425DBD0e8e797d9185e4Aaf4B4": {
+        "url": "https://t.me/ESWAPwaterfall",
+        "name": "ESWAPV2"
+    },
+    "0x2084907e318C6c45f74ae20792b366559FAAa791": {
+        "url": "https://t.me/sCAKEwaterfall",
+        "name": "sCAKE"
+    },
+    "0x0491648C910ad2c1aFaab733faF71D30313Df7FC": {
+        "url": "https://t.me/JDIwaterfall",
+        "name": "JDI"
+    },
+    "0x57bb0f40479D7Dd0caa67f2A579273A8e9c038Ee": {
+        "url": "https://t.me/RUGBUSTwaterfall",
+        "name": "RUGBUST"
+    },
+    "0x10E027343977e55BEBEAA6FC65804021829D41d4": {
+        "url": "https://t.me/FAIRBTCwaterfall",
+        "name": "FAIRBTC"
+    },
+    "0x81859801b01764D4f0Fa5E64729f5a6C3b91435b": {
+        "url": "https://t.me/joinchat/LqH53qG7lJdkOGRl",
+        "name": "BFI"
+    },
+    "0xcBfB07B453c52A287f42E1270eE1eBCc7C5eE823": {
+        "url": "https://t.me/FAIRBSCwaterfall",
+        "name": "FAIRBSC"
+    },
+    "0x5749085C36A521f71AD2050Cb600B2165aabdF68": {
+        "url": "https://t.me/joinchat/lJGHZh78wndlMGJl",
+        "name": "BRN"
+    },
+    "0x814C2A11f57c56A06b8F32b5daE255cc7dD51aA0": {
+        "url": "https://t.me/DFRwaterfall",
+        "name": "DFR"
+    },
+    "0x4495e673eE53c61CE79c35D5e299733639362aEc": {
+        "url": "https://t.me/joinchat/G38FB9FXpao0ODIx",
+        "name": "WLQX"
+    },
+    "0x4D691BBEcE09A34BA5175639639146B25739cf35": {
+        "url": "https://t.me/FAIRSPACEwaterfall",
+        "name": "FAIRSPACE"
+    },
+    "0x0C038Bc02C8C9945f194b17C703f800526900A74": {
+        "url": "https://t.me/joinchat/TEIeVK5b_k05OTNl",
+        "name": "SUPERN"
+    },
+    "0x3920123482070C1a2dff73AaD695c60e7c6F6862": {
+        "url": "https://t.me/EULERwaterfall",
+        "name": "EULER"
+    },
+    "0x33A3d962955A3862C8093D1273344719f03cA17C": {
+        "url": "https://t.me/SPOREwaterfall",
+        "name": "SPORE"
+    },
+    "0x77F2a1E63054c45093abcB0B83f16a0CE79b7018": {
+        "url": "https://t.me/JAZZwaterfall",
+        "name": "JAZZ"
+    },
+    "0x6fDb74841B167ff6A58552D2E00365dC554eD656": {
+        "url": "https://t.me/FAIRHOGEwaterfall",
+        "name": "FAIRHOGE"
+    },
+    "0x9b93c29595dd603f75854EbA3C5f4EE078EE4454": {
+        "url": "https://t.me/STRIwaterfall",
+        "name": "STRI"
+    },
+    "0xDD13bC4b81A4d4B9ac2DBDBcBB8150F7e351E018": {
+        "url": "https://t.me/GMNEwaterfall",
+        "name": "GMNE"
+    },
+    "0x7c9Cb83c0e47D01Bb27EE14337EE9eB493E770A7": {
+        "url": "https://t.me/mdg4waterfall",
+        "name": "MDG4"
+    },
+    "0xc16EE527648E06676C90831Bed44512E0Db85Fe8": {
+        "url": "https://t.me/ACORPwaterfall",
+        "name": "ACORP"
+    },
+    "0x38d8b1ac6967C5714F935074DA9Ed63B16a65Edc": {
+        "url": "https://t.me/BEAMwaterfall",
+        "name": "BEAM"
+    },
+    "0x34EA3F7162E6f6Ed16bD171267eC180fD5c848da": {
+        "url": "https://t.me/DNDwaterfall",
+        "name": "DND"
+    },
+    "0x2e841bF1a959F5eDCDC320053810Ad86396F05eD": {
+        "url": "https://t.me/joinchat/hbgbEk0yan05ZjU1",
+        "name": "JETMOON"
+    },
+    "0x2E291e1c9f85a86d0C58Ae15621aaC005a8b2EAD": {
+        "url": "https://t.me/ZEPwaterfall",
+        "name": "ZEP"
+    },
+    "0x429F10b5a78De398E039d313c4CEaC4D7E51cdCB": {
+        "url": "https://t.me/sav3mars",
+        "name": "SV3MRS"
+    },
+    "0x18D883F6647cB3195F55EB93BF9EE8ae824E3a6f": {
+        "url": "https://t.me/joinchat/i69R3BcP8oU4ZjRl",
+        "name": "UNF"
+    },
+    "0x5A4f765476Fd1BF010783B47a25CbF10974e6A37": {
+        "url": "https://t.me/joinchat/VCx9j-g2clVlZjNl",
+        "name": "SPE"
+    },
+    "0x9cf571F3F3809e396b68f2e454aFF83914665db1": {
+        "url": "https://t.me/joinchat/nHmPhth3r2Q3ZDg9",
+        "name": "SPACESTATION"
+    },
+    "0xd96F875B7B9C95eEE51c8D01C11DEE6a8bb4F5c3": {
+        "url": "https://t.me/joinchat/rPzkqtMfmzs5OGY1",
+        "name": "HIGHNOON"
+    },
+    "0x7fdd3C80d4aE8C3B5D71aab17E13077E65037170": {
+        "url": "https://t.me/joinchat/ARozakwrD0k5MWM1",
+        "name": "SnowB"
+    },
+    "0x6e2307de122cd9465b7f47dd73a5F89BB29E4285": {
+        "url": "https://t.me/joinchat/-DABtkn7O6czNzI1",
+        "name": "SODE"
+    },
+    "0xCc5B7e738FaD86AB75821A9cE3494cd1786aE944": {
+        "url": "https://t.me/joinchat/X-FooYN3I79kN2Y1",
+        "name": "BSCW"
+    },
+    "0x3835943D4013EF994E3062E6049D2a7415DaFf9e": {
+        "url": "https://t.me/joinchat/AAqUQsEgp3tkNDc1",
+        "name": "ASTRO"
+    },
+    "0x339f6e1553E923FD27412dfaF18b5721EA580A15": {
+        "url": "https://t.me/joinchat/EJWzdmJ5dzI5YjNl",
+        "name": "TFC"
+    },
+    "0x787732f27D18495494cea3792ed7946BbCFF8db2": {
+        "url": "https://t.me/joinchat/C21sHpbEp7Y1M2Vl",
+        "name": "MASH"
+    },
+    "0x6F0C00185D476Dd1D6D547e15Ae42bEeAE9b15c8": {
+        "url": "https://t.me/joinchat/HZbDGnhegvEzMzQ1",
+        "name": "YARRR"
+    },
+    "0xEcB81D9a0fDD532440b8BfEEBaCC25e2035C5Db4": {
+        "url": "https://t.me/joinchat/6xKQRfeKJvI5OGY1",
+        "name": "MMP"
+    },
+    "0xf4351554e76cF3Eb2280F3D7AdA9699B23D964C3": {
+        "url": "https://t.me/joinchat/ves_GYvcTUc0YzBl",
+        "name": "SAVEMOON"
+    },
+    "0xB0F2939A1c0e43683E5954c9Fe142F7df9F8D967": {
+        "url": "https://t.me/joinchat/bEUs16XA2F82MWM1",
+        "name": "GEN"
+    },
+    "0x7bb362962F2a4E2089466C79566572B37CFc5D78": {
+        "url": "https://t.me/joinchat/bpI4DoLPQgxkMWI1",
+        "name": "BAFE"
+    },
+    "0xe56F12123c583De823720A603b2DC11D659C12fC": {
+        "url": "https://t.me/joinchat/hREzIMBgVS82Mjg1",
+        "name": "MTP"
+    },
+    "0x716690CE67379C2563508DCf5e0C4485B550A589": {
+        "url": "https://t.me/joinchat/9oTq84sxW0EzNjc9",
+        "name": "RM"
+    },
+    "0x4c2377102a6fFE6150878b222a39D20b1e528290": {
+        "url": "https://t.me/joinchat/NpbP877CqK4yNjg1",
+        "name": "COLD"
+    },
+    "0x8891de345808E77228677f0eFb56125DB1E93a49": {
+        "url": "https://t.me/joinchat/w5d1CfCGw9c3MjQ9",
+        "name": "RX"
+    },
+    "0x83CB33E78Bf03Fc07A6370e45a2C406222F0d410": {
+        "url": "https://t.me/joinchat/ACv42Wgp1B9iZWFl",
+        "name": "AVENGEC"
+    },
+    "0x069B2619Eb24367A46Fda638Bd1b88Aa4daD7879": {
+        "url": "https://t.me/joinchat/J8iMO11l3moxMjU1",
+        "name": "MNDAO"
+    },
+    "0x5A054554b3F0C75063D29250984A921402E1E3a7": {
+        "url": "https://t.me/joinchat/SRqlrc4OshI3YjE1",
+        "name": "Shield Finance"
+    },
+    "0xEd438051437c22A9Ef249B68c7E292435fE8B858": {
+        "url": "https://t.me/joinchat/HzYKj5FzESlkN2I1",
+        "name": "Mooni"
+    },
+    "0xEF2ec90e0b8D4CdFdB090989EA1Bc663F0D680BF": {
+        "url": "https://t.me/joinchat/wR_aQe67r14yODY1",
+        "name": "ORFANO"
+    },
+    "0x779859313567B96d5d3fb7f531b73E1BF008C4A9": {
+        "url": "https://t.me/joinchat/U4DqzEOnRRE0OTll",
+        "name": "KPOP"
+    },
+    "0xC0eFf7749b125444953ef89682201Fb8c6A917CD": {
+        "url": "https://t.me/joinchat/8Ycp63OSexA2NTA1",
+        "name": "HZN"
+    },
+    "0xc35f46aAEb8aD17bCbAa78c03540FEffa44790Cb": {
+        "url": "https://t.me/joinchat/2K7yvqTOXdo1Mzk1",
+        "name": "LEM"
+    },
+    "0x71f3ED37567E013f8294aa0c6c1C92332d2944F3": {
+        "url": "https://t.me/joinchat/uC5d54-xluY2ZTE1",
+        "name": "CAROM"
+    },
+    "0xA38920217C0d401d71a44a5e8cf042f450AA5c71": {
+        "url": "https://t.me/joinchat/AtxPbH1dGnE0YmNl",
+        "name": "FastBTCv2"
+    },
+    "0xdEC858d5ee93568CE4eA5bbf9169ceA23d2dE305": {
+        "url": "https://t.me/joinchat/476akX3tQJY1YTY1",
+        "name": "sBEAR"
+    },
+    "0x78bc22a215C1eF8a2e41Fa1c39CD7BDC09bd5174": {
+        "url": "https://t.me/joinchat/0aKDh-iyEupkZTA9",
+        "name": "RMOON"
+    },
+    "0x727D0b444B86BE03DBA3ece809d8AF292c6ad5Fc": {
+        "url": "https://t.me/joinchat/i-I_RMSm-Z8yZjNl",
+        "name": "Rely"
+    },
+    "0xeE814F5B2bF700D2e843Dc56835D28d095161dd9": {
+        "url": "https://t.me/joinchat/oXmH4CuYXzhlNzI9",
+        "name": "GRAND"
+    },
+    "0x1a4590f128d90a6B9576F99926E4D5c8ad855C97": {
+        "url": "https://t.me/joinchat/5aQqdMF4Njg0NjY1",
+        "name": "PUG"
+    },
+    "0x36C0556c2B15aED79F842675Ff030782738eF9e8": {
+        "url": "https://t.me/joinchat/VRtcRqM8hzBlN2Jl",
+        "name": "BLUE"
+    },
+    "0xa882Fff751B2C9fDBfDdf6De732aBa6B0F0b3887": {
+        "url": "https://t.me/joinchat/8EoBDKdw_KAyODI1",
+        "name": "CLSW"
+    },
+    "0x5918F3f2f3a8E018754dCB1B9a9CEE13ABD5A357": {
+        "url": "https://t.me/joinchat/wNF7GljPnQhkOWE1",
+        "name": "Alaska"
+    },
+    "0xC13a1B47377A8382BD3F6F9105137c1e838758b9": {
+        "url": "https://t.me/joinchat/hJXZp2uqTFY5YmI1",
+        "name": "ACHTOOLS"
+    },
+    "0x865d0c78d08BD6e5f0db6BCbF36d3F8EB4ad48F8": {
+        "url": "https://t.me/joinchat/d__A-DrB3T04NGQ9",
+        "name": "KILI"
+    },
+    "0xBB994E80E2eDc45dCe9065bda73ADc7E9337b64F": {
+        "url": "https://t.me/joinchat/jUqxkW9u9KAzODI1",
+        "name": "O1T"
+    },
+    "0xDD87Df4697527e6fBc5586cB0105bD8aB0FA7A61": {
+        "url": "https://t.me/joinchat/Sp6QSD8exOw1Mzll",
+        "name": "GMEv3"
+    },
+    "0xCEFc09127708Ab29b427857d545bc1A07Ee5dc45": {
+        "url": "https://t.me/joinchat/PLgVIjh7QsRjMGY1",
+        "name": "ST"
+    },
+    "0xAF169E53e9f07DE6F9F4Eac67e2833C623f0c122": {
+        "url": "https://t.me/joinchat/ndzA_6zWLwQ4MWRl",
+        "name": "TORPEDO"
+    },
+    "0xE0B40b32Ce117Ab66f40951033d1b9C6e5D75EBB": {
+        "url": "https://t.me/joinchat/f22qv5AaMboxMDI1",
+        "name": "WFFY"
+    },
+    "0x171401a3d18B21BFa3f9bF4F9637F3691158365A": {
+        "url": "https://t.me/joinchat/HG9_FEgIrkwxYTE1",
+        "name": "LABO"
+    },
+    "0x69Ef774aE2B47a7E574b15d9f8E87c3B0ef6373C": {
+        "url": "https://t.me/joinchat/muzqkp9WnfE5MTU9",
+        "name": "YUGO "
+    },
+    "0xF1720079f5611A589795C5C3BA114F112B53e17E": {
+        "url": "https://t.me/joinchat/OImz4om82ts5YjU1",
+        "name": "SAFEMOON CLASSIC"
+    },
+    "0x68E374F856bF25468D365E539b700b648Bf94B67": {
+        "url": "https://t.me/joinchat/5dD7kqVhjzBiYmZl",
+        "name": "MIST"
+    },
+    "0x43F3918Ff115081cFbFb256A5bDE1e8d181f2907": {
+        "url": "https://t.me/joinchat/Pak9WDWCGqJkYTRl",
+        "name": "ANT"
+    },
+    "0x139dd9203c8E46d15B3896814Dc9424c5e5559fA": {
+        "url": "https://t.me/joinchat/pLX9voZQL5xjMTI1",
+        "name": "OX"
+    },
+    "0xb49568F7E53AD7ef3F5154C6026348bF5d1e0D49": {
+        "url": "https://t.me/joinchat/GSspzhICfqk5NGY1",
+        "name": "SAFEBCC"
+    },
+    "0xaCbF7C954C7cE8F14bbc553C1A86c303bE351339": {
+        "url": "https://t.me/joinchat/aKP8YVtOQxFjOTJl",
+        "name": "LFG"
+    },
+    "0xBF746586E1758E4a3038768144b4DA8f09022f77": {
+        "url": "https://t.me/joinchat/Sm-vASyE-49iM2I1",
+        "name": "bCORGI"
+    },
+    "0xAaD87f47CDEa777FAF87e7602E91e3a6AFbe4D57": {
+        "url": "https://t.me/joinchat/RYMyq5_iD6Y5ZDI1",
+        "name": "PYE"
+    },
+    "0xbE8183612F145986A41ad8e8fCFefED1C2F9dEbA": {
+        "url": "https://t.me/joinchat/nB0F5l592HdjZDFl",
+        "name": "MBUD"
+    },
+    "0xd8f90438DDd9e99B581F49257D078E8E39fC5e31": {
+        "url": "https://t.me/joinchat/YHuEUgZ4P9djNTll",
+        "name": "BESTMOON"
+    },
+    "0x87Ffc48C9f89fc5dfA05836e083406D684FD6331": {
+        "url": "https://t.me/joinchat/CKmE4gMWM981NmU1",
+        "name": "Hachiko"
+    },
+    "0x75AD26795305a589Fb5C68E2cD4DAfeFC6Ad41fF": {
+        "url": "https://t.me/joinchat/xMFmyWylLNhiZTFl",
+        "name": "TONTON"
+    },
+    "0xb6C53431608E626AC81a9776ac3e999c5556717c": {
+        "url": "https://t.me/joinchat/rRnv2ST4Dxk0ODU1",
+        "name": "TLOS"
+    },
+    "0x4E7Ae924FD9a5D60b56BE486b2900efE0c6a9CA7": {
+        "url": "https://t.me/joinchat/u3Ot-ONJj4I5Y2Jl",
+        "name": "LOT"
+    },
+    "0x0C384832e340b0a481b6Ec313bD0Fa0d7a267024": {
+        "url": "https://t.me/joinchat/NCWoTf1sowM4MTNl",
+        "name": "ApeSocks"
+    },
+    "0x8B48B1941DfC1E18b98f75F1b6142d1a386f122e": {
+        "url": "https://t.me/joinchat/TKnvVXfxEGEwYjZl",
+        "name": "COCA"
+    },
+    "0x79BA0ab945fae020424F2a0D8a0Ec8520E26f5b0": {
+        "url": "https://t.me/joinchat/o6aElGXRc4c2MGQ9",
+        "name": "ICE"
+    },
+    "0x13958e1eb63dFB8540Eaf6ed7DcbBc1A60FD52AF": {
+        "url": "https://t.me/joinchat/qfcVOFuzTHw2Zj",
+        "name": "FREN"
+    },
+    "0x2802eb3a20f5892956D5B9528F6Bf13E648534DB": {
+        "url": "https://t.me/joinchat/DnXsKZ5A77NmYTY1",
+        "name": "ODIN"
+    },
+    "0x7F2f16979c05188b6B185397dd66f4546F8d3A1C": {
+        "url": "https://t.me/joinchat/fmanQKzS-Kg5OGFl",
+        "name": "Halfmoon"
+    },
+    "0x869Dd7A64AfBe5370a8c591d9B8650BE60c0B8f6": {
+        "url": "https://t.me/joinchat/YBZb_W4p1cZiNDVl",
+        "name": "FASTMOON"
+    },
+    "0x0321394309CaD7E0E424650844c3AB3b659315d3": {
+        "url": "https://t.me/joinchat/ORzKfwU_VvU4YWFl",
+        "name": "XBC"
+    },
+    "0x14357D294fBabbE0fbF59503370c772d563b35b6": {
+        "url": "https://t.me/joinchat/qVtmhPedSGI5ZDI1",
+        "name": "HMNG"
+    },
+    "0x2a49De60cc6204c3AFC3e770FDB30A0554147519": {
+        "url": "https://t.me/joinchat/OIk8Dcj7icU4YWRl",
+        "name": "LAIKA"
+    },
+    "0xF017E2773e4ee0590C81D79ccbcF1B2De1D22877": {
+        "url": "https://t.me/joinchat/doJ5oiwG61k2ZTk1",
+        "name": "SAFEMOONCASH"
+    },
+    "0xf4a037785b3AE6C70F9Ed71fA2084B3589CABd46": {
+        "url": "https://t.me/joinchat/S-ah8fcpnoEwMDM1",
+        "name": "MEMEX"
+    },
+    "0xcb5f99EC2f2640fB91c155Ecd78b88eD1BC29570": {
+        "url": "https://t.me/joinchat/Xfj8LBtssN80OGZl",
+        "name": "HOTDOGMOON"
+    },
+    "0x12A74014c385C4b391c21e5Fc2439B70Fa5925Cc": {
+        "url": "https://t.me/joinchat/bDv0lHbHJQJhODQ1",
+        "name": "DOGGO"
+    },
+    "0x23F7f71A183698B253F1D5c76a6fA0b5Acbb0C05": {
+        "url": "https://t.me/joinchat/0t2lIhfZMHtmZjdl",
+        "name": "RocketFuel"
+    },
+    "0x513bd0B72a2006Bf35d6EB12e5AdD5675DeCB7e7": {
+        "url": "https://t.me/joinchat/n6aVGXplvwAzOGNl",
+        "name": "DIS"
+    },
+    "0xb06Bda58DC90B1732d1e17B7aF9ECd310269e58f": {
+        "url": "https://t.me/joinchat/X2qS2EYHe7dhZTY9",
+        "name": "PSF"
+    },
+    "0x76693053e7047517AD823572d6b3b112FA4c24d8": {
+        "url": "https://t.me/joinchat/kzh7pQ5uCqA5Y2U1",
+        "name": "EDOGE"
+    },
+    "0xbcD3FCA7D60e738753E09955C03F75427E42761a": {
+        "url": "https://t.me/joinchat/pSLKp1Yi9FU4YWZl",
+        "name": "FATCORGI"
+    },
+    "0xfC13a56fE9eD0d4f6C7470E01d88C2fe18f6c27C": {
+        "url": "https://t.me/joinchat/kzwAu7-ZtfE5Y2Y1",
+        "name": "SPACEPUG"
+    },
+    "0x65d5b8C596A12b3108A8d75B0Cee8d6f8A7aBD8C": {
+        "url": "https://t.me/joinchat/yzSV0Dk4f8kxMTll",
+        "name": "Volcano"
+    },
+    "0xcBB09097d442f267f0780064a082ac06D947311f": {
+        "url": "https://t.me/joinchat/7bUFFNHDDrZkMGQ1",
+        "name": "OFOX"
+    },
+    "0x092BBec1342affFd16Cfb41B56343D5A299CDf0D": {
+        "url": "https://t.me/joinchat/Dpvzb76m0qs5MzQ1",
+        "name": "ShiCo"
+    },
+    "0xbE9605A0bf1eF8A4235E2C1DA83Dd3AA7702C7CE": {
+        "url": "https://t.me/joinchat/xs2zQb5r6Tk1Nzc1",
+        "name": "ARI"
+    },
+    "0x3504de9e61FDFf2Fc70f5cC8a6D1Ee493434C1Aa": {
+        "url": "https://t.me/joinchat/CKSdgJQl-Qo1YTJl",
+        "name": "TeslaSafe"
+    },
+    "0xB64E638E60D154B43f660a6BF8fD8a3b249a6a21": {
+        "url": "https://t.me/joinchat/PtE9erP-Y5QzY2Nl",
+        "name": "WAULTx"
+    },
+    "0xfb16B31FA8a6Edcd2dDE78654CB0668c724C1dAc": {
+        "url": "https://t.me/joinchat/u4aAY2f8D1IzZTk1",
+        "name": "SAFEPOKEMAN"
+    },
+    "0x0Fe3e956D2034BCEF01FbA8A2BfCA389cdb72699": {
+        "url": "https://t.me/joinchat/qtP-a0_PurUwYzM1",
+        "name": "SBYTE"
+    },
+    "0x68590a47578E5060a29fd99654f4556dBfa05D10": {
+        "url": "https://t.me/joinchat/VEHPAa_JvZk2MTA1",
+        "name": "SMRAT"
+    },
+    "0xE1F2d89a6c79b4242F300f880e490A70083E9A1c": {
+        "url": "https://t.me/joinchat/4LliMyFoPSI4ZmZl",
+        "name": "TOFY"
+    },
+    "0x493880798B67f6ba85bD87403024aD27D4709782": {
+        "url": "https://t.me/joinchat/jC3dg2u___0xMTQ1",
+        "name": "EagleMoon"
+    },
+    "0xa9c41A46a6B3531d28d5c32F6633dd2fF05dFB90": {
+        "url": "https://t.me/joinchat/PDJZ052odmI5MzM1",
+        "name": "WEX"
+    },
+    "0x622A1297057ea233287ce77bdBF2AB4E63609F23": {
+        "url": "https://t.me/joinchat/OJ3ITUT0dNllMDFl",
+        "name": "$SUPDOG"
+    },
+    "0xEEe64EC09F07c8dBb31e36Df86EA095B140505aE": {
+        "url": "https://t.me/joinchat/DHf4uwgKfb9kNzg1",
+        "name": "NFTDOGE"
+    },
+    "0x3D29Aa78fB558F84112bbC48a84F371147A920C9": {
+        "url": "https://t.me/joinchat/bWfraBs5ryVkYWM9",
+        "name": "Dogefather"
+    },
+    "0x27327672D1dc51F4Dc58c9F413E1FA7e7ad8245e": {
+        "url": "https://t.me/joinchat/XIo4fQrufwRjM2I1",
+        "name": "WILLIE"
+    },
+    "0x41100E72A52031907Fc3B28E1572Dc4c104EE980": {
+        "url": "https://t.me/joinchat/1GHMWnp_UQc3ZDY9",
+        "name": "MRB"
+    },
+    "0xA656F993bD14B2B59a28d1e610476AD18849b107": {
+        "url": "https://t.me/joinchat/4IQyyx5Py8EyMjI1",
+        "name": "SAFERMOON"
+    },
+    "0x68991c5251662d04182fCCc48501D7261c03d5f8": {
+        "url": "https://t.me/joinchat/AEePX9zXFDtiYTg1",
+        "name": "SPLASH"
+    },
+    "0xB3225aC90B741f762BecA76dEA1eaD278Ef26A96": {
+        "url": "https://t.me/joinchat/jgro0Bm3Z4M5MDhl",
+        "name": "LOF"
+    },
+    "0x9C3Bbff333F4AEAB60B3c060607b7C505Ff30C82": {
+        "url": "https://t.me/joinchat/6ZxjB1d4pptlZjg1",
+        "name": "upBNB"
+    },
+    "0x8592fb0E6724A90CE45f05F31B85BddD45931560": {
+        "url": "https://t.me/joinchat/qVr7UKnYaIJhNzFl",
+        "name": "SWIN"
+    },
+    "0xEFbA8b41e3495ad52258DFe916199Dc643F99dA2": {
+        "url": "https://t.me/joinchat/s8_C-kBnhbEzZWI9",
+        "name": "SWASS"
+    },
+    "0xf73Aeb4d845F6E6B5ABbb7CE699cEDb80399da26": {
+        "url": "https://t.me/joinchat/LRbDh6y4kYkyNzQ1",
+        "name": "WCAT"
+    },
+    "0x338196a509B4c66749c3f44c21C00501E6ACF7BC": {
+        "url": "https://t.me/joinchat/C89EUXNZiKQ0OTM9",
+        "name": "DMusk"
+    },
+    "0xF34dF425A9e2a97B52BA9D4bdA6c03d8598e66BC": {
+        "url": "https://t.me/joinchat/xpJxWbOPyTswNGZl",
+        "name": "CTO"
+    },
+    "0x669288ADA63ed65Eb3770f1c9eeB8956deDAaa47": {
+        "url": "https://t.me/joinchat/bAKqiZ2pe4RiYzBl",
+        "name": "BTDMD"
+    },
+    "0x683B98716c1Bde0D7dE9362Ec304E7F81a6c68Ab": {
+        "url": "https://t.me/joinchat/p6jFaDecd7Y2NWI1",
+        "name": "RAFF"
+    },
+    "0x96bbE4376802eCc0eFD330AF76B8873183270671": {
+        "url": "https://t.me/joinchat/mtqvNgvBXvs2NjBl",
+        "name": "KOBT"
+    },
+    "0x8057De2aFC2169f99f88C0939ed0bE113f9DB939": {
+        "url": "https://t.me/joinchat/cz_osZBKvbY0OTI1",
+        "name": "SMART"
+    },
+    "0xED6b5b5d037ef636b3cBe21360FAAeA8ac8F6F58": {
+        "url": "https://t.me/joinchat/XU8aFagNgzQ2MmU9",
+        "name": "MF"
+    },
+    "0x44E5436ae19AA2bd76C5C397E7a622e3D35d6059": {
+        "url": "https://t.me/joinchat/PTGk62ZqvHcwZmM1",
+        "name": "MCDAO"
+    },
+    "0xf5F7ABbf5Dd2deCc9c1ba09Cd0e77997C8083AD5": {
+        "url": "https://t.me/joinchat/EBoB2Z9L_DBlMWVl",
+        "name": "BLOCK"
+    },
+    "0x203dE499F76F589f80b371A54a98e438339C5563": {
+        "url": "https://t.me/joinchat/LWfdnIjvVxc2OWE1",
+        "name": "SafeDOG"
+    },
+    "0xB365C7EC3610b35e7dfFe83a160F0098633305A4": {
+        "url": "https://t.me/joinchat/iR8Rir0PN1M5M2E1",
+        "name": "ESSO"
+    },
+    "0x67ED0A0b32F239A3FCd1b8C21bef7d86578F106b": {
+        "url": "https://t.me/joinchat/c5snQeFXF5g5YzQ1",
+        "name": "PEPR"
+    },
+    "0x6097b1962Adf48c9Ed48672adD19FE70F617AeeF": {
+        "url": "https://t.me/joinchat/hC5kNXmdWfE0NTM1",
+        "name": "NFTulpar"
+    },
+    "0x3c730718C97A77562866B5D29B33228c019eAC68": {
+        "url": "https://t.me/joinchat/Z-xd7hfPjOBlMjFl",
+        "name": "BNBD"
+    },
+    "0x79e9695580D3Fa86615eF4c53dE8C0dfaA5FCA7c": {
+        "url": "https://t.me/joinchat/jVu6dhqNfN8wZjNl",
+        "name": "BSCTD"
+    },
+    "0xe7754E3ae76DF70DF97BC762762b78679Daf0e27": {
+        "url": "https://t.me/joinchat/nrB2KORCtEs4ZGNl",
+        "name": "DEXF"
+    },
+    "0xE4aB812613F03D2B00D34bfa43F1B7cf211A10d7": {
+        "url": "https://t.me/joinchat/6fa2xkkaHvszZWVl",
+        "name": "FOREST"
+    },
+    "0x9e6f666Ef48f7B615c5286BE76fc058b40fACec9": {
+        "url": "https://t.me/joinchat/C9bRLdvF2cgyZjFl",
+        "name": "MDM"
+    },
+    "0x93bc19c415C75770D37fE4D76bFbb23387d28f0F": {
+        "url": "https://t.me/joinchat/tcFdMwYO1IwzOWY1",
+        "name": "SAFEASS"
+    },
+    "0xEb556e3B799E3AC69Ea03f25561559229cF7457c": {
+        "url": "https://t.me/joinchat/wtmlGPekjfsxMzA9",
+        "name": "CKFATv2"
+    },
+    "0x3a408C5Bec5ADD9035867310D5573bef984d7cc9": {
+        "url": "https://t.me/joinchat/RYUgXuuXvjc5MDFl",
+        "name": "CampFire"
+    },
+    "0x7E0F01918D92b2750bbb18fcebeEDD5B94ebB867": {
+        "url": "https://t.me/joinchat/xDLkaoj4fKpjNjll",
+        "name": "BDEX"
+    },
+    "0xDfDec49462f7D3C3b0A48E729F77A0645CDFA7c0": {
+        "url": "https://t.me/joinchat/WtNBiOXcj-w1M2Jl",
+        "name": "GEMS"
+    },
+    "0xA43779cC2F221b0e41D107ae1fc757E470d41e50": {
+        "url": "https://t.me/joinchat/Y-YTLdJqzGg4NTBl",
+        "name": "NEWB"
+    },
+    "0x35278ccF9bdAe082E97D29Ed6A8F73E89A75159d": {
+        "url": "https://t.me/joinchat/Tx1ndrPhGlgwOGJl",
+        "name": "MDGE"
+    },
+    "0x337e35Ed5B38D5C7Ec9F8d7cF78fe7F43d7DEC6F": {
+        "url": "https://t.me/joinchat/N5io8h-a6cYwYjQ1",
+        "name": "NOTSAFEMOON"
+    },
+    "0x8fD02B3ab3E216cf00d8C66db4ebd9F1c93ea5bd": {
+        "url": "https://t.me/joinchat/gWi8QTNcebQ4NDg1",
+        "name": "YEETROCKET"
+    },
+    "0x9E1892eD30796FF96aBBb1b6A5e722C6ea9C46eB": {
+        "url": "https://t.me/joinchat/LZNDCKp6NA00ZGNl",
+        "name": "CHAD"
+    },
+    "0x159802FBE16Aa6a0863a56a18DD41Afce546c93E": {
+        "url": "https://t.me/joinchat/Ac_F1OU5lg84MjRl",
+        "name": "Save"
+    },
+    "0xced986aF3e17b27775952Bd920f7395B00dcD294": {
+        "url": "https://t.me/joinchat/3Jci-GrGHjk0NDQ9",
+        "name": "HENTAI"
+    },
+    "0x9B8d33e184Cd72b22841275f30A66cEd6fC98D09": {
+        "url": "https://t.me/joinchat/g7Yh3JD2bcE1MWQ1",
+        "name": "sPRK"
+    },
+    "0x400613f184D1207f5C07a67D67040A4e23E92feB": {
+        "url": "https://t.me/joinchat/yTK1r5JCd48xZjc1",
+        "name": "UPDOG"
+    },
+    "0x32089eafFaf278C82cda2c8d37e7b6b6faBBaAF2": {
+        "url": "https://t.me/joinchat/KBU5tLEG2rViMGI9",
+        "name": "SLF"
+    },
+    "0x9a6fDa69FA9859B169EF17b600Ce81c59Cf16F01": {
+        "url": "https://t.me/joinchat/WEatfkBBKvQ5NjQ9",
+        "name": "COLD"
+    },
+    "0x4A824eE819955A7D769e03fe36f9E0C3Bd3Aa60b": {
+        "url": "https://t.me/joinchat/UO_ZhhSQMedlOGJl",
+        "name": "KABOSU"
+    },
+    "0x17D749D3E2ac204a07e19D8096d9a05c423ea3af": {
+        "url": "https://t.me/joinchat/lZesYIFaMKA5Mzk1",
+        "name": "LTRBT"
+    },
+    "0xD047bd94f90A95B38Df6E1EA67796F571F46536B": {
+        "url": "https://t.me/joinchat/cEfzhtHpewBhMmE1",
+        "name": "NEURO"
+    },
+    "0x954BE3E377661a2b01841e487CA294c4204DBB79": {
+        "url": "https://t.me/joinchat/mH1tkGj2t7E0MjM1",
+        "name": "SHIBM"
+    },
+    "0x0fFB09e25d2Cb7D56EF3eA7Fac08756Dfb579208": {
+        "url": "https://t.me/joinchat/Kz1pJEe3WBk3NzE9",
+        "name": "CLOUT"
+    },
+    "0x29232A744726a18b283388c6D132Cd197B79551E": {
+        "url": "https://t.me/joinchat/pd9yyZ51Nz9hMzJl",
+        "name": "SPANDA"
+    },
+    "0xD914Bde476B6e44b7A1579b21F0F9193EA55F852": {
+        "url": "https://t.me/joinchat/qab-4p96gP84ZjY9",
+        "name": "HSHIBA"
+    },
+    "0x1d64327C74d6519afeF54E58730aD6fc797f05Ba": {
+        "url": "https://t.me/joinchat/48dvPvE2YIkwNTM1",
+        "name": "ORT"
+    },
+    "0x86f5A70511B55186BBbe8276B02340B2abA9E4a5": {
+        "url": "https://t.me/joinchat/eoi1y9hzZr9jN2Q1",
+        "name": "SCOOBY"
+    },
+    "0xbB8170ad35325522c0026d67584D4feFBd08b750": {
+        "url": "https://t.me/joinchat/gOjqEHze0sEyMDBl",
+        "name": "RADDIT"
+    },
+    "0xBBe899c61198D1826a43e20ea19efC46E50c2B00": {
+        "url": "https://t.me/joinchat/eEufHmXtv_o3OGY1",
+        "name": "EnergyX"
+    },
+    "0x1aD7dbE0D521Ca1ae72DecC06f1570aa43C781A2": {
+        "url": "https://t.me/joinchat/3K97Y-0JcqJjMTVl",
+        "name": "CRYPT"
+    },
+    "0xB5CFc7B83c020109E466589ae18941F12AE22d44": {
+        "url": "https://t.me/joinchat/o0gUHZHX35c5NjQ1",
+        "name": "CTW"
+    },
+    "0x40B165Fd5dDc75ad0bDDc9ADd0adAbff5431a975": {
+        "url": "https://t.me/joinchat/3iMBS-QjP2s0NTQ1",
+        "name": "MEMES"
+    },
+    "0xe1dBf7F4b4852d97095344CB2d97e01Cbc80b581": {
+        "url": "https://t.me/joinchat/vafMWjN31NRlYTdl",
+        "name": "SMRCY"
+    },
+    "0x42F21Afb0EA9Bf6d54cA1bE23B8b5681e0b641c6": {
+        "url": "https://t.me/joinchat/AEd-XTnwheE4N2E1",
+        "name": "KOTARO"
+    },
+    "0x6E1b4BA8F5bE7708cD475795FC23924eD078A8d2": {
+        "url": "https://t.me/joinchat/VpO3Uug5uD00NmU1",
+        "name": "CHANGE"
+    },
+    "0x0b3f42481C228F70756DbFA0309d3ddC2a5e0F6a": {
+        "url": "https://t.me/joinchat/U8fjXmHrKPo2YjY1",
+        "name": "ULTRA"
+    },
+    "0xB47D8D9CD415DAE40E364b140ae6aF186e2332f4": {
+        "url": "https://t.me/joinchat/t7y7XAInxPMwNDk1",
+        "name": "SMOON"
+    },
+    "0xA1A0C7849e6916945a78F8AF843738c051ab15F3": {
+        "url": "https://t.me/joinchat/fzXJsV2YKmlhOTc1",
+        "name": "MetaMoon"
+    },
+    "0xc91D49653F0364aA9C7877697eB27313c973ad9D": {
+        "url": "https://t.me/joinchat/BygPRmypmsQyMWVl",
+        "name": "CATNIP"
+    },
+    "0xdB238123939637D65a03E4b2b485650B4f9D91CB": {
+        "url": "https://t.me/joinchat/sUmWEvPD2J5iZTE1",
+        "name": "TASTE"
+    },
+    "0x099B8575dfDF1020e07e1D54E125a5bC23433f32": {
+        "url": "https://t.me/joinchat/xWZZ82vZtCo2OTQ1",
+        "name": "SOFI"
+    },
+    "0x4Efab39b14167Da54aebed2094a61aA1FD384056": {
+        "url": "https://t.me/joinchat/e3pHUlJLV7xmODM1",
+        "name": "LEOPARD"
+    },
+    "0xcF654A685e6415a026A6B1C530d49eBa8869f8a4": {
+        "url": "https://t.me/joinchat/AqmUYAyw1-M4YjJl",
+        "name": "AQUASHIB"
+    },
+    "0xB3b518cA093856D696e9681731B41919A548dCFA": {
+        "url": "https://t.me/joinchat/d0WNWjebZxAxOWE1",
+        "name": "TODO"
+    },
+    "0xB78D1edfeD9c93d7EfFD396F95997483f60b869E": {
+        "url": "https://t.me/joinchat/q1RCIDxFDaU3MjM1",
+        "name": "NTKN"
+    },
+    "0x096DABB653E1C7e62F4aBB6D519ba87ad61FAD34": {
+        "url": "https://t.me/joinchat/8R3oCom0UY05YmE9",
+        "name": "ASTRO"
+    },
+    "0x115A49871F02c522090cb45bBe715dB406cafa33": {
+        "url": "https://t.me/joinchat/SafpliVkJUE3NzM9",
+        "name": "SRT"
+    },
+    "0x451A22A201fCc56C76da86361D77cD17D381453f": {
+        "url": "https://t.me/joinchat/By-im9uvczJlNjBl",
+        "name": "PUZZLE"
+    },
+    "0x75dffAf163D67591fDCa3907a50655dB3a5516Ed": {
+        "url": "https://t.me/joinchat/lNkXO7roOHMzNWVl",
+        "name": "Glitchy"
+    },
+    "0x768d221E81524De52841AeD976370b2e4F990416": {
+        "url": "https://t.me/joinchat/_Ix7oAXtnC9jOGY1",
+        "name": "MMP"
+    },
+    "0xD4ED4a27ff7EaE121C487D841e530Cd0dA65c6b5": {
+        "url": "https://t.me/joinchat/axS4aTlfYD4yYWU1",
+        "name": "SAFT"
+    },
+    "0xd494D6e25c554776f32d0247E6795a5D68DC4AD1": {
+        "url": "https://t.me/joinchat/lChnnqhnE6szYTk9",
+        "name": "WKA"
+    },
+    "0xA3dB8318cF5B8e6ba512114FB9c1Fce2cac0cd5c": {
+        "url": "https://t.me/joinchat/fh7ThU1in8BjODBl",
+        "name": "METEORMAN"
+    },
+    "0x6A46d878401F46B4C7f665f065E0667580e031ec": {
+        "url": "https://t.me/joinchat/JHvZT1nJqv43OGNl",
+        "name": "IVN"
+    },
+    "0x246475dF8703BE0C2bA2f8d0fb7248D95Cc1Ba26": {
+        "url": "https://t.me/joinchat/_mm56c7DVephMTQ1",
+        "name": "PAPR"
+    },
+    "0x5baeBd214FdAe546ce39750B8363e799E2ABa21E": {
+        "url": "https://t.me/joinchat/vgrUZerGfbVhYWY1",
+        "name": "MNRY"
+    },
+    "0x046f5374185A00c7c3EADD0f96c6038b7d5F047d": {
+        "url": "https://t.me/joinchat/t1A94EwQTvQ5ZWFl",
+        "name": "CSHIBA"
+    },
+    "0x016c8dA9D916905a00eF26a2e7dC2EE67B6020cF": {
+        "url": "https://t.me/joinchat/G9i2_v3LqUkxNTU1",
+        "name": "PRNTR"
+    },
+    "0xDA360309C59CB8C434b28A91b823344a96444278": {
+        "url": "https://t.me/joinchat/4XKvaHfNA8hkYzll",
+        "name": "MERL"
+    },
+    "0xb74ed4112C23B7c8ef1439FA55D304D537C5599B": {
+        "url": "https://t.me/joinchat/mBxCSIcN8fZhNjQ9",
+        "name": "CTRFI"
+    },
+    "0xea90DC6F64d18771Ca1dac8098526a9082265B42": {
+        "url": "https://t.me/joinchat/IKhxVXXAP8VlOWU9",
+        "name": "DINOP"
+    },
+    "0x772B07C6EA6614dd153d16CD531C145F3ce9840A": {
+        "url": "https://t.me/joinchat/64EL0WWtjdxiNTRl",
+        "name": "PUPPY INU"
+    },
+    "0x87eba250A34E7486eaB140d89e2EB5d8d113EA2d": {
+        "url": "https://t.me/joinchat/1TeruPa1UOs2ZDA1",
+        "name": "AT"
+    },
+    "0xA3424FB48b9FA2FF8D3366eD91f36b4cDa7cAdd8": {
+        "url": "https://t.me/joinchat/i9DuoBDvL6djMTE1",
+        "name": "Vacay"
+    },
+    "0x1936De3FCBa6460Ba1f4addb4829573386ff30fD": {
+        "url": "https://t.me/joinchat/pMatXRlC70I4ZmJl",
+        "name": "KINU"
+    },
+    "0x8869eac0D82245A2df50a0FAD770D72CE63649d1": {
+        "url": "https://t.me/joinchat/GQE7wBC1EU9lMjVl",
+        "name": "DOGS"
+    },
+    "0x86dd49963fe91F0e5BC95d171Ff27EA996C0890C": {
+        "url": "https://t.me/joinchat/xS0cbMHBUXwyZTA1",
+        "name": "0XC"
+    },
+    "0x9ce5222A0419cc4d25Ece978AAA5d8C31b3565E6": {
+        "url": "https://t.me/joinchat/qqd74M71kewwNjc9",
+        "name": "GROUPER"
+    },
+    "0xB09FE1613fE03E7361319d2a43eDc17422f36B09": {
+        "url": "https://t.me/joinchat/TXyl8iwMRa1iZDA1",
+        "name": "BOG"
+    },
+    "0xF839B455C1f18BbCFE0f1bfa6A914B0baA0Db7aD": {
+        "url": "https://t.me/joinchat/TbyUOFsEiEMzOTJl",
+        "name": "MINU"
+    },
+    "0xd156f464A0f6dDAef6c157fb71168dD5cD16c587": {
+        "url": "https://t.me/joinchat/xXdtkDtlucg0NmVl",
+        "name": "STZU"
+    },
+    "0xeb0173EE5859Df064997D5e49218F7D55BB4363c": {
+        "url": "https://t.me/joinchat/GG2THZcW8z9hYzJl",
+        "name": "COWM"
+    },
+    "0x7e4e3BA4675c39FF2863073e171b0a2E93A592E0": {
+        "url": "https://t.me/joinchat/2Fd6-_M-ZwJkODU1",
+        "name": "SHIBACASH"
+    },
+    "0xC597aC255B22080f092D3E4a13CaBC1838EE5371": {
+        "url": "https://t.me/joinchat/FwDHMKI4nI85OTNl",
+        "name": "HEDGIES"
+    },
+    "0xa96658cd0D04a8fdCDc30D1156CC65BbFC7591eD": {
+        "url": "https://t.me/joinchat/jhabRSzSC4U0MmY1",
+        "name": "SUSHIBA"
+    },
+    "0xEB1EcCE22836c2B551819E156813A087A74CAc76": {
+        "url": "https://t.me/joinchat/0306hRcf22c2ZTFl",
+        "name": "BAPE"
+    },
+    "0xdD1a151Dcd44e9d544568D5B9AE36A46AA24d62e": {
+        "url": "https://t.me/joinchat/cQzoCwoCR2FmMjI1",
+        "name": "CHOW"
+    },
+    "0x26Eab2d1494f82cf694E2A49E0A889F7a66178F4": {
+        "url": "https://t.me/joinchat/Gdunspv1ShdkZGRl",
+        "name": "DOGEWORLD"
+    },
+    "0xF11746b354aE4671dd6Cac6bD7Bc167DF0C79Be2": {
+        "url": "https://t.me/joinchat/fhdvt6wjZBhiYzY1",
+        "name": "LEVS"
+    },
+    "0xC62eF0d8e137499833AbB05Dee47007D2b334bA6": {
+        "url": "https://t.me/joinchat/GADpwJcrr4kxYTg1",
+        "name": "GMX"
+    },
+    "0x4f7213244b1F7a0244Fd3416eCc69622542b7756": {
+        "url": "https://t.me/joinchat/yp2zSbq23QdhMGE1",
+        "name": "TDAO"
+    },
+    "0xDBe7C17c620B1f4AE7447F5b86146D1C4E5BA129": {
+        "url": "https://t.me/joinchat/4j5CiszWjSgzYmI1",
+        "name": "CBE"
+    },
+    "0x01eaedd1BC5F8198D174532Aa13BA150653E0E11": {
+        "url": "https://t.me/joinchat/xkkpkT_LBl1kYTFl",
+        "name": "ONE"
+    },
+    "0x5C9eEFADb1989115a35BDF2f5917AD38208125C7": {
+        "url": "https://t.me/joinchat/OszqFY97Tjs5NmVl",
+        "name": "XS100"
+    },
+    "0x07C0755c5c8Ac1243DEb7498f27EdEDF9b01C5B2": {
+        "url": "https://t.me/joinchat/7ayylPaPz2VmZTA1",
+        "name": "Power"
+    },
+    "0xD20595346CA72f82BE355E2a603BFA8B0Fd86E33": {
+        "url": "https://t.me/joinchat/9j88TrK-dGUxYzll",
+        "name": "GSSIT"
+    },
+    "0x494A2f5395aC213622762e4ef4d44661758Ca639": {
+        "url": "https://t.me/joinchat/jwzPjqE1Nq1iMjE9",
+        "name": "CASHDOG"
+    },
+    "0x9757f5A83FAb0E858c90273493dB3d9801C8Dc2a": {
+        "url": "https://t.me/joinchat/lmrUvYodBX5kYWY1",
+        "name": "JEFUS"
+    },
+    "0xDbCa1Fecbd2d3AE9EfC48f3E823fedE48530551a": {
+        "url": "https://t.me/joinchat/L7xoXu9j3gM5MjE1",
+        "name": "BYCO"
+    },
+    "0x293C3Ee9ABaCb08BB8ceD107987F00EfD1539288": {
+        "url": "https://t.me/joinchat/dUr4WapvhxU1OThl",
+        "name": "EMPIRE"
+    },
+    "0x1592271a485E7F12De1EcCF2555cea7763f29cAC": {
+        "url": "https://t.me/joinchat/V6eikkVVzLgyZjk9",
+        "name": "BNBX"
+    },
+    "0xAF7C26f79D19167b516A460DDfFe2B722df6223c": {
+        "url": "https://t.me/joinchat/G3gJph9JLTNhOTE1",
+        "name": "stsi"
+    },
+    "0x2A0196e707cE3Fc6c3cB07AA8f0123456636f52c": {
+        "url": "https://t.me/joinchat/vYxg3RgSx7E4MDU1",
+        "name": "SUPERSPACE"
+    },
+    "0xA2D3e8E0723c6Cd0fBC0409FEc13B9E67B2420bc": {
+        "url": "https://t.me/joinchat/HH2TN8E_bQVlZTVl",
+        "name": "NFTSHIBA"
+    },
+    "0x707C9088313B20931c05D16227f146279eC28e4E": {
+        "url": "https://t.me/joinchat/3b0jiXuwRqhlNjY1",
+        "name": "SBSH"
+    },
+    "0x9AA18A4E73E1016918fA360Eed950D9580C9551d": {
+        "url": "https://t.me/joinchat/Xr5adQIgds1lOTZl",
+        "name": "GENX"
+    },
+    "0xAC543b0dE08e8396b4dF878355F504c203aC1313": {
+        "url": "https://t.me/joinchat/FI46hnDhb0lhZGE1",
+        "name": "INKO"
+    },
+    "0xC4eEFF5aab678C3FF32362D80946A3f5De4a1861": {
+        "url": "https://t.me/joinchat/4H0-ptMOu3E1MDY1",
+        "name": "RICE"
+    },
+    "0xc7435088819F1AF950357fED65BE856165cC3abB": {
+        "url": "https://t.me/WBTwaterfall",
+        "name": "WBT"
+    },
+    "0x2020EB9E26aa49c27ebB72C174cfbab851f7ddE0": {
+        "url": "https://t.me/joinchat/b49zXhQZ0yZiZWM1",
+        "name": "JEJUDOGE"
+    },
+    "0x3766468340fd822A46F368A13F20a8898bb2E2e4": {
+        "url": "https://t.me/joinchat/97pgXR_BRZ81Y2Fl",
+        "name": "KOTR"
+    },
+    "0x3279510E89600ee1767a037DBD0aD49c974063AE": {
+        "url": "https://t.me/joinchat/JVV8GpRvssUwNGI9",
+        "name": "NFTBS"
+    },
+    "0x57c56665B2bcdf3CB86E40A9D3DC21f5b0AeD7Ad": {
+        "url": "https://t.me/joinchat/HvXBSU_vMsZkN2I1",
+        "name": "EVM"
+    },
+    "0x03FfFb18C0EA6B0aD4fa3b5226512B334587686F": {
+        "url": "https://t.me/joinchat/P_4zha9PVJRhNzg1",
+        "name": "TUSK"
+    },
+    "0xEb4f4d09CcBB3be5bf83c26a42282652913aDB59": {
+        "url": "https://t.me/joinchat/pFZWE8t-zAxjNGZl",
+        "name": "SAFUPAD"
+    },
+    "0xA3A02553bDF42bE18B3563D5C7968768530f5A73": {
+        "url": "https://t.me/joinchat/0SFZ9tiCt5w2ZWRl",
+        "name": "GREEN"
+    },
+    "0x50052B73b25947B26CFf778DEDE2875E97f0A919": {
+        "url": "https://t.me/joinchat/uWgeh1bAZt9jYjZl",
+        "name": "BabyShib"
+    },
+    "0xf3F4Ca91BbBE84A89b4c3C17BeD4a6DdE8c06585": {
+        "url": "https://t.me/joinchat/q4dWuVIV4SxmMjM1",
+        "name": "$SHIBGOLD"
+    },
+    "0x88C676FC777c225B69869AeEf5d10535dE1E4F5D": {
+        "url": "https://t.me/joinchat/fJ_Xgtdxm3I3NTll",
+        "name": "Orgn"
+    },
+    "0x3cC5530f60bF53A29916363aD7795740B0B5c6A1": {
+        "url": "https://t.me/joinchat/-gLYxIP6LU05ZTk1",
+        "name": "MWAR"
+    },
+    "0xfAF17a5330dfff5749Ff5127C71c341E13E414B0": {
+        "url": "https://t.me/joinchat/evGQ6NbIVr9iNzZl",
+        "name": "KOMODO"
+    },
+    "0x64f5a1D85cF52c15e53335BB9b432a0Ad4c0ba5E": {
+        "url": "https://t.me/joinchat/49gA3i5omCFiMjQ1",
+        "name": "BabyMuks"
+    },
+    "0xc748673057861a797275CD8A068AbB95A902e8de": {
+        "url": "https://t.me/joinchat/qglSPnOlINFhZmU9",
+        "name": "BabyDoge"
+    },
+    "0x7ccE94C0B2C8aE7661f02544E62178377Fe8cF92": {
+        "url": "https://t.me/joinchat/ja9bAQleTRwyZjA1",
+        "name": "DaddyDoge"
+    },
+    "0xD2618bC9c9cDC40ff19e200a7d14A09799C0a152": {
+        "url": "https://t.me/joinchat/unM0j9RbcLMwMTNl",
+        "name": "UDOGE"
+    },
+    "0xBa07EED3d09055d60CAEf2bDfCa1c05792f2dFad": {
+        "url": "https://t.me/joinchat/SJehZDroJ7FhYWM9",
+        "name": "MiniDOGE"
+    },
+    "0x6419a6a21F823436D30e03d7fCB0F59bb5392Dbc": {
+        "url": "https://t.me/joinchat/5Bn1vHwWWyJjZjE1",
+        "name": "DOGARMY"
+    },
+    "0x855da01957DbC39cC53464dBc6b90817f5d12109": {
+        "url": "https://t.me/joinchat/b5cmCHIttpVmYWNl",
+        "name": "FamilyDoge"
+    },
+    "0x3DAB450ee6451762E72647A05a205dd5697c5C2c": {
+        "url": "https://t.me/joinchat/dBoSVmClsqxlMGE1",
+        "name": "FSHIB"
+    },
+    "0xfb62AE373acA027177D1c18Ee0862817f9080d08": {
+        "url": "https://t.me/joinchat/BPF56VonlCk5OWNl",
+        "name": "DPET"
+    },
+    "0xBCA627FEd3b6E8F414C745E12B2b89371497779D": {
+        "url": "https://t.me/joinchat/TQMyetIimes5YmRl",
+        "name": "QUANT"
+    },
+    "0x9029FdFAe9A03135846381c7cE16595C3554e10A": {
+        "url": "https://t.me/joinchat/lddAEQKiSCpjZDg1",
+        "name": "OOE"
+    },
+    "0x0E7BeEc376099429b85639Eb3abE7cF22694ed49": {
+        "url": "https://t.me/joinchat/wvIzy6AP1ZozYTQ1",
+        "name": "BUNI"
+    },
+    "0x37cbe09a20cDD8300efE091e3af373384870eA4c": {
+        "url": "https://t.me/joinchat/dmOt2BdoJe1hZTE1",
+        "name": "SENPAI"
+    },
+    "0x0bC37d86e41dfA71555A8D8894eEA9E4Fb634438": {
+        "url": "https://t.me/joinchat/9POBlONfBpM0ZDll",
+        "name": "SpaceportOcean"
+    },
+    "0xdDa82F136576AE87d2702BB05370aF274Ce71dd5": {
+        "url": "https://t.me/joinchat/l5e-jPYojUxmNzVl",
+        "name": "Doogee"
+    },
+    "0xdB8D30b74bf098aF214e862C90E647bbB1fcC58c": {
+        "url": "https://t.me/joinchat/c1l_l9RTDKw5MTg1",
+        "name": "BABYCAKE"
+    },
+    "0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6": {
+        "url": "https://t.me/joinchat/A7mziFMJxq0wMWM1",
+        "name": "C98"
+    },
+    "0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0": {
+        "url": "https://t.me/joinchat/6qhIOslvZV00OGZl",
+        "name": "AXS"
+    },
+    "0x154A9F9cbd3449AD22FDaE23044319D6eF2a1Fab": {
+        "url": "https://t.me/joinchat/uSNf6KuSa4YzZjY9",
+        "name": "SKILL"
+    },
+    "0x9F2AA8fc249dFc59b6F52bBd5229ebe0A533da4d": {
+        "url": "https://t.me/joinchat/GqOATXPFEeA3ZDVl",
+        "name": "HYPERDRIVE"
+    },
+    "0xCA6d25C10dad43ae8Be0bc2af4D3CD1114583C08": {
+        "url": "https://t.me/joinchat/N45a79nBIAtmMTc9",
+        "name": "SISTA"
+    },
+    "0xA58950F05FeA2277d2608748412bf9F802eA4901": {
+        "url": "https://t.me/joinchat/SRf_glZ9cypkMjdl",
+        "name": "WSG"
+    },
+    "0xa2E47AB6Ce867A974cE994dE6f5A040017a3EE39": {
+        "url": "https://t.me/joinchat/FL0JWNmOiJY3MjQ1",
+        "name": "cyberrpunk"
+    },
+    "0x8C8B57F82b662553B2BdD053c7154Fe1821cC9C4": {
+        "url": "https://t.me/joinchat/lETFGQu9JWM4MmRl",
+        "name": "EPIC"
+    },
+    "0xC2fe5153f611781Cd8481268B3dc7826a3413959": {
+        "url": "https://t.me/joinchat/k4wnTTdlat85M2E1",
+        "name": "BABYBTC"
+    },
+    "0x0921d788E7f7498f80adb0A0A62B8A9476F2Db92": {
+        "url": "https://t.me/joinchat/OEuwIFjvNNowNTc9",
+        "name": "VLK"
+    },
+    "0xa1D04A189f8b6d5d64e8Fea7c38846AB6fa0F823": {
+        "url": "https://t.me/joinchat/1Q-Cc5MY7EtlYTY1",
+        "name": "SATS"
+    },
+    "0x52D88a9a2a20A840d7A336D21e427E9aD093dEEA": {
+        "url": "https://t.me/joinchat/CetenujcBlEyY2Nl",
+        "name": "HUSKY"
+    },
+    "0x57AdCe4FACBBBb8c7F0890eebBE3A416626379be": {
+        "url": "https://t.me/joinchat/Kq8v5w0AVBFhMTZl",
+        "name": "DinkyDoge"
+    },
+    "0x917841c010b3d86ED886F36F2C9807E07a2e3093": {
+        "url": "https://t.me/joinchat/ROVW0gaV-SQxNmU1",
+        "name": "RSUN"
+    },
+    "0xA38898a4Ae982Cb0131104a6746f77fA0dA57aAA": {
+        "url": "https://t.me/joinchat/XCAF_2vaBpcyNGY1",
+        "name": "QBIT"
+    },
+    "0x903fCaf1A49B29678C15B43bc9F852232BfA7dF1": {
+        "url": "https://t.me/joinchat/ZUoTnD_Kbxg5MmY9",
+        "name": "MyFarmPet"
+    },
+    "0xE821FF93aCd958D8EF637ff9627217d28A5B6845": {
+        "url": "https://t.me/joinchat/xuwztANqMYxhM2Zl",
+        "name": "PTLKX"
+    },
+    "0x124831BB885DF3c4bf88176A478Ff1b3B95f3769": {
+        "url": "https://t.me/joinchat/gMrPWb29WE83MDg1",
+        "name": "SRN"
+    },
+    "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C": {
+        "url": "https://t.me/ELKwaterfall",
+        "name": "ELK"
+    },
+    "0x633237C6FA30FAe46Cc5bB22014DA30e50a718cC": {
+        "url": "https://t.me/joinchat/wt93Cc0giRowMGI1",
+        "name": "FIWA"
+    },
+    "0x655A46cd88e18a338ECE048228a388c25BFdA9f3": {
+        "url": "https://t.me/joinchat/3wukUN75QlM4MDFl",
+        "name": "CTF"
+    },
+    "0x6b7Ccd19B78F57EFaa89e6291b8834831C2F539f": {
+        "url": "https://t.me/joinchat/4i87iRbCvLNjOTQ9",
+        "name": "DAOS"
+    },
+    "0x02df6cF91C519db4aC254216A8Ed3A17aeCFaED7": {
+        "url": "https://t.me/joinchat/ii-sLTIG38A5N2Q9",
+        "name": "HOOD"
+    },
+    "0x4e8E6b4f70ae735008848ee74EA603D1f8d9ae20": {
+        "url": "https://t.me/joinchat/0zxXHK60PUk3NjQ1",
+        "name": "SAVENFT"
+    },
+    "0xd099EC26CCbe9A68a12c5E22fd0a461914014FBb": {
+        "url": "https://t.me/joinchat/Mt3SSyQlVEQ3YmM1",
+        "name": "DOGEFOMO"
+    },
+    "0x23e3981052d5280C658e5e18D814Fa9582BFbc9E": {
+        "url": "https://t.me/joinchat/zgMoXt08inhmYzE9",
+        "name": "YCT"
+    },
+    "0x899369213fA897A0611417c7aBf413E464b10114": {
+        "url": "https://t.me/joinchat/VQ8tp0oGD98yZjU1",
+        "name": "CUEX"
+    },
+    "0xe2cBF8572EAb769311A8c562b00A14Ca55eaa0EA": {
+        "url": "https://t.me/joinchat/J2AKxkMYQaszMGRl",
+        "name": "SHIBIN"
+    },
+    "0x77d547256A2cD95F32F67aE0313E450Ac200648d": {
+        "url": "https://t.me/joinchat/Vw_R6SW2bxpmNTNl",
+        "name": "LAZIO"
+    },
+    "0xb9f5C03d733C9F7eBA6B81c48A55ef0bEBBB200A": {
+        "url": "https://t.me/joinchat/aW9BhbQb1jk2ZTQ9",
+        "name": "PAZ"
+    },
+    "0xc8846B0877cEC21336BA3136208fD02D42aC7b5e": {
+        "url": "https://t.me/joinchat/zUboeaqxgOtkYjA1",
+        "name": "DESIRE"
+    },
+    "0xD0ACCF05878caFe24ff8b3F82F194C62Ed755707": {
+        "url": "https://t.me/joinchat/FWJKWXC2KlswNTQ1",
+        "name": "SIMP"
+    },
+    "0x8C851d1a123Ff703BD1f9dabe631b69902Df5f97": {
+        "url": "https://t.me/joinchat/CYrcBZU96I42YmU1",
+        "name": "BNX"
+    },
+    "0x231cF6F78620e42Fe00D0c5C3088b427F355d01c": {
+        "url": "https://t.me/joinchat/P4nRbUWRwJk0NmFl",
+        "name": "MOVE"
+    }
 }

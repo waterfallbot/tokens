@@ -1,6 +1,18 @@
 {
-    "0xB1f66997A5760428D3a87D68b90BfE0aE64121cC": "https://t.me/TOMOwaterfall",
-    "0x7262fa193e9590B2E075c3C16170f3f2f32F5C74": "https://t.me/luawaterfall",
-    "0x4EaafA85bDBe9B02930926C594F83e62B036B1be": "https://t.me/joinchat/dr7jjRHeP_82NjBl",
-    "0x2E6bCE13C31920B9B83c43B2A8a73C2EDEfb75F7": "https://t.me/joinchat/h4h1yVGXfmRmNTY1"
+    "0xB1f66997A5760428D3a87D68b90BfE0aE64121cC": {
+        "url": "https://t.me/TOMOwaterfall",
+        "name": "WTOMO"
+    },
+    "0x7262fa193e9590B2E075c3C16170f3f2f32F5C74": {
+        "url": "https://t.me/luawaterfall",
+        "name": "LUA"
+    },
+    "0x4EaafA85bDBe9B02930926C594F83e62B036B1be": {
+        "url": "https://t.me/joinchat/dr7jjRHeP_82NjBl",
+        "name": "tDAO"
+    },
+    "0x2E6bCE13C31920B9B83c43B2A8a73C2EDEfb75F7": {
+        "url": "https://t.me/joinchat/h4h1yVGXfmRmNTY1",
+        "name": "PIXEL"
+    }
 }
