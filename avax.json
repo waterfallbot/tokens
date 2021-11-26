@@ -1,8 +1,4 @@
 {
-    "0x60781C2586D68229fde47564546784ab3fACA982": {
-        "url": "https://t.me/joinchat/rWm1HdxqEzc3ZDk1",
-        "name": "PNG"
-    },
     "0x9a928D7dcD8D7E5Cb6860B7768eC2D87B8934267": {
         "url": "https://t.me/joinchat/SCdXSqDVnBYyOGM1",
         "name": "BAMBOO-V2"
@@ -14,10 +10,6 @@
     "0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985": {
         "url": "https://t.me/SPOREwaterfall",
         "name": "SPORE"
-    },
-    "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7": {
-        "url": "https://t.me/joinchat/Kbg8KlTXPG5lMzc1",
-        "name": "WAVAX"
     },
     "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C": {
         "url": "https://t.me/ELKwaterfall",
@@ -75,10 +67,6 @@
         "url": "https://t.me/joinchat/3FJM1mvWuQQwYzQ1",
         "name": "SafeGalaxyA"
     },
-    "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5": {
-        "url": "https://t.me/joinchat/7ZAFjlRNhjxkNzk1",
-        "name": "QI"
-    },
     "0x1390372f70b651820042Db75E56260c080893eeA": {
         "url": "https://t.me/joinchat/WEQsTAeNBKA1YzNl",
         "name": "FAVAX"
@@ -86,10 +74,6 @@
     "0x2f86508f41310D8D974B76deb3D246c0caa71cf5": {
         "url": "https://t.me/joinchat/UR-NSfb4cHtjYmRl",
         "name": "HOTCROSS"
-    },
-    "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd": {
-        "url": "https://t.me/joinchat/Y8dfpAylUxkyNWU1",
-        "name": "JOE"
     },
     "0x3176216fDBedeb84A54045f5f6966Ce3EC234B6c": {
         "url": "https://t.me/joinchat/oCM39FOkBvRiMWI1",
@@ -102,5 +86,9 @@
     "0x02fE8adC1B58A63CCb1Bb8c39930DCEdD7cEF4dB": {
         "url": "https://t.me/joinchat/XhFEhwiA84tiMTdl",
         "name": "VOID"
+    },
+    "0x42F33F70Be8A9C062B68ee64e7Ff34dD2ed2f5D8": {
+        "url": "https://t.me/+VY5JJy23no9hMjE1",
+        "name": "CCC"
     }
 }
