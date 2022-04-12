@@ -1543,7 +1543,7 @@
         "url": "https://t.me/joinchat/gMrPWb29WE83MDg1",
         "name": "SRN"
     },
-    "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C": {
+    "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE": {
         "url": "https://t.me/ELKwaterfall",
         "name": "ELK"
     },
@@ -1611,10 +1611,6 @@
         "url": "https://t.me/joinchat/BFZI20xAzC0yODRl",
         "name": "TOON"
     },
-    "0x47DB24E17C0C4622523449a239b3de746E2b0b23": {
-        "url": "https://t.me/joinchat/h4h1yVGXfmRmNTY1",
-        "name": "PIXEL"
-    },
     "0xcc081ECDe398A2Ac795d299961549BeC97C935Fb": {
         "url": "https://t.me/joinchat/_0Wyyrotqy9hN2Y1",
         "name": "MSD"
@@ -1658,5 +1654,9 @@
     "0x80fa6d5384BDde296a28A321f73aB70977575129": {
         "url": "https://t.me/+IdjqArAFrIUxZGQ1",
         "name": "JEFE"
+    },
+    "0xbeC68a941feCC79E57762e258fd1490F29235D75": {
+        "url": "https://t.me/+9LClANV5AYs5MTBl",
+        "name": "KRONOS"
     }
 }
